@@ -1,0 +1,1278 @@
+Jar directory: /home/ckwnsqja/Hotitems/misc/arcus-misc/acp-java/../../arcus-java-client/target
+single_server=localhost:11900
+client=10
+request=0
+time=600
+keyset_size=100000
+valueset_min_size=100
+valueset_max_size=100
+client_profile=simple_getset
+pool=1
+pool_size=10
+pool_use_random=false
+2016-09-27 13:13:37,055 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 13:13:37,064 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@165ef3ae
+2016-09-27 13:13:37,065 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 13:13:37,065 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 13:13:37,066 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 13:13:37,066 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 13:13:37,067 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 13:13:37,067 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@71f31c4e
+2016-09-27 13:13:37,067 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 13:13:37,068 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 13:13:37,068 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@3ff33ecb
+2016-09-27 13:13:37,069 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 13:13:37,069 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@22d215
+2016-09-27 13:13:37,069 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 13:13:37,070 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 13:13:37,070 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 13:13:37,070 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@54448f09
+2016-09-27 13:13:37,071 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 13:13:37,071 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 13:13:37,072 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@3eae389d
+2016-09-27 13:13:37,072 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 13:13:37,073 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@56cfd14a
+2016-09-27 13:13:37,073 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 13:13:37,073 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@374f1544
+2016-09-27 13:13:37,073 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 13:13:37,074 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 13:13:37,074 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@526abde0
+2016-09-27 13:13:37,074 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 13:13:37,075 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 13:13:37,075 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@d73c52f
+New client. id=0 pool=0 arcus_client=0
+New client. id=1 pool=0 arcus_client=1
+New client. id=2 pool=0 arcus_client=2
+New client. id=3 pool=0 arcus_client=3
+New client. id=4 pool=0 arcus_client=4
+New client. id=5 pool=0 arcus_client=5
+New client. id=6 pool=0 arcus_client=6
+New client. id=7 pool=0 arcus_client=7
+New client. id=8 pool=0 arcus_client=8
+New client. id=9 pool=0 arcus_client=9
+Starting clients...
+Client is running. id=0
+Client is running. id=1
+Client is running. id=2
+Client is running. id=3
+Client is running. id=4
+Client is running. id=5
+Client is running. id=6
+Client is running. id=7
+Client is running. id=8
+Client is running. id=9
+elapsed(s)=1 requests/s=3615 [error=0] cumulative requests/client=361 [error=0] cumulative requests/s=180
+3615	0		X	X	X
+elapsed(s)=2 requests/s=3413 [error=0] cumulative requests/client=702 [error=0] cumulative requests/s=341
+3413	0		X	X	X
+elapsed(s)=3 requests/s=3332 [error=0] cumulative requests/client=1036 [error=0] cumulative requests/s=490
+3332	0		X	X	X
+elapsed(s)=4 requests/s=3741 [error=0] cumulative requests/client=1410 [error=0] cumulative requests/s=652
+3741	0		X	X	X
+elapsed(s)=5 requests/s=4166 [error=0] cumulative requests/client=1826 [error=0] cumulative requests/s=827
+4166	0		X	X	X
+elapsed(s)=6 requests/s=4809 [error=0] cumulative requests/client=2307 [error=0] cumulative requests/s=1026
+4809	0		X	X	X
+elapsed(s)=7 requests/s=6300 [error=0] cumulative requests/client=2937 [error=0] cumulative requests/s=1289
+6300	0		X	X	X
+elapsed(s)=8 requests/s=7290 [error=0] cumulative requests/client=3666 [error=0] cumulative requests/s=1589
+7290	0		X	X	X
+elapsed(s)=9 requests/s=9260 [error=0] cumulative requests/client=4592 [error=0] cumulative requests/s=1972
+9260	0		X	X	X
+elapsed(s)=10 requests/s=10653 [error=0] cumulative requests/client=5657 [error=0] cumulative requests/s=2406
+10653	0		X	X	X
+elapsed(s)=11 requests/s=11718 [error=0] cumulative requests/client=6829 [error=0] cumulative requests/s=2871
+11718	0		X	X	X
+elapsed(s)=12 requests/s=12551 [error=0] cumulative requests/client=8084 [error=0] cumulative requests/s=3355
+12551	0		X	X	X
+elapsed(s)=13 requests/s=14603 [error=0] cumulative requests/client=9545 [error=0] cumulative requests/s=3917
+14603	0		X	X	X
+elapsed(s)=14 requests/s=14485 [error=0] cumulative requests/client=10993 [error=0] cumulative requests/s=4445
+14485	0		X	X	X
+elapsed(s)=15 requests/s=14962 [error=0] cumulative requests/client=12489 [error=0] cumulative requests/s=4970
+14962	0		X	X	X
+elapsed(s)=16 requests/s=14325 [error=0] cumulative requests/client=13922 [error=0] cumulative requests/s=5437
+14325	0		X	X	X
+elapsed(s)=17 requests/s=11260 [error=0] cumulative requests/client=15048 [error=0] cumulative requests/s=5728
+11260	0		X	X	X
+elapsed(s)=18 requests/s=15978 [error=0] cumulative requests/client=16646 [error=0] cumulative requests/s=6240
+15978	0		X	X	X
+elapsed(s)=19 requests/s=15645 [error=0] cumulative requests/client=18210 [error=0] cumulative requests/s=6710
+15645	0		X	X	X
+elapsed(s)=20 requests/s=15458 [error=0] cumulative requests/client=19756 [error=0] cumulative requests/s=7147
+15458	0		X	X	X
+elapsed(s)=21 requests/s=16040 [error=0] cumulative requests/client=21360 [error=0] cumulative requests/s=7591
+16040	0		X	X	X
+elapsed(s)=22 requests/s=15388 [error=0] cumulative requests/client=22899 [error=0] cumulative requests/s=7980
+15388	0		X	X	X
+elapsed(s)=23 requests/s=15853 [error=0] cumulative requests/client=24484 [error=0] cumulative requests/s=8373
+15853	0		X	X	X
+elapsed(s)=24 requests/s=15944 [error=0] cumulative requests/client=26078 [error=0] cumulative requests/s=8751
+15944	0		X	X	X
+elapsed(s)=25 requests/s=16051 [error=0] cumulative requests/client=27684 [error=0] cumulative requests/s=9116
+16051	0		X	X	X
+elapsed(s)=26 requests/s=15825 [error=0] cumulative requests/client=29266 [error=0] cumulative requests/s=9451
+15825	0		X	X	X
+elapsed(s)=27 requests/s=15704 [error=0] cumulative requests/client=30836 [error=0] cumulative requests/s=9763
+15704	0		X	X	X
+elapsed(s)=28 requests/s=15143 [error=0] cumulative requests/client=32351 [error=0] cumulative requests/s=10032
+15143	0		X	X	X
+elapsed(s)=29 requests/s=15386 [error=0] cumulative requests/client=33889 [error=0] cumulative requests/s=10299
+15386	0		X	X	X
+elapsed(s)=30 requests/s=14706 [error=0] cumulative requests/client=35360 [error=0] cumulative requests/s=10519
+14706	0		X	X	X
+elapsed(s)=31 requests/s=14934 [error=0] cumulative requests/client=36853 [error=0] cumulative requests/s=10739
+14934	0		X	X	X
+elapsed(s)=32 requests/s=15261 [error=0] cumulative requests/client=38379 [error=0] cumulative requests/s=10965
+15261	0		X	X	X
+elapsed(s)=33 requests/s=15890 [error=0] cumulative requests/client=39968 [error=0] cumulative requests/s=11211
+15890	0		X	X	X
+elapsed(s)=34 requests/s=15464 [error=0] cumulative requests/client=41515 [error=0] cumulative requests/s=11423
+15464	0		X	X	X
+elapsed(s)=35 requests/s=15393 [error=0] cumulative requests/client=43054 [error=0] cumulative requests/s=11621
+15393	0		X	X	X
+elapsed(s)=36 requests/s=15828 [error=0] cumulative requests/client=44637 [error=0] cumulative requests/s=11831
+15828	0		X	X	X
+elapsed(s)=37 requests/s=16109 [error=0] cumulative requests/client=46248 [error=0] cumulative requests/s=12044
+16109	0		X	X	X
+elapsed(s)=38 requests/s=15550 [error=0] cumulative requests/client=47803 [error=0] cumulative requests/s=12219
+15550	0		X	X	X
+elapsed(s)=39 requests/s=15870 [error=0] cumulative requests/client=49390 [error=0] cumulative requests/s=12401
+15870	0		X	X	X
+elapsed(s)=40 requests/s=15608 [error=0] cumulative requests/client=50951 [error=0] cumulative requests/s=12561
+15608	0		X	X	X
+elapsed(s)=41 requests/s=16102 [error=0] cumulative requests/client=52561 [error=0] cumulative requests/s=12738
+16102	0		X	X	X
+elapsed(s)=42 requests/s=15467 [error=0] cumulative requests/client=54108 [error=0] cumulative requests/s=12874
+15467	0		X	X	X
+elapsed(s)=43 requests/s=15283 [error=0] cumulative requests/client=55636 [error=0] cumulative requests/s=12994
+15283	0		X	X	X
+elapsed(s)=44 requests/s=15071 [error=0] cumulative requests/client=57143 [error=0] cumulative requests/s=13097
+15071	0		X	X	X
+elapsed(s)=45 requests/s=15106 [error=0] cumulative requests/client=58654 [error=0] cumulative requests/s=13197
+15106	0		X	X	X
+elapsed(s)=46 requests/s=15321 [error=0] cumulative requests/client=60186 [error=0] cumulative requests/s=13303
+15321	0		X	X	X
+elapsed(s)=47 requests/s=15881 [error=0] cumulative requests/client=61774 [error=0] cumulative requests/s=13431
+15881	0		X	X	X
+elapsed(s)=48 requests/s=15781 [error=0] cumulative requests/client=63352 [error=0] cumulative requests/s=13548
+15781	0		X	X	X
+elapsed(s)=49 requests/s=15622 [error=0] cumulative requests/client=64914 [error=0] cumulative requests/s=13651
+15622	0		X	X	X
+elapsed(s)=50 requests/s=15598 [error=0] cumulative requests/client=66474 [error=0] cumulative requests/s=13748
+15598	0		X	X	X
+elapsed(s)=51 requests/s=15691 [error=0] cumulative requests/client=68043 [error=0] cumulative requests/s=13845
+15691	0		X	X	X
+elapsed(s)=52 requests/s=15534 [error=0] cumulative requests/client=69596 [error=0] cumulative requests/s=13929
+15534	0		X	X	X
+elapsed(s)=53 requests/s=14925 [error=0] cumulative requests/client=71089 [error=0] cumulative requests/s=13978
+14925	0		X	X	X
+elapsed(s)=54 requests/s=15511 [error=0] cumulative requests/client=72640 [error=0] cumulative requests/s=14054
+15511	0		X	X	X
+elapsed(s)=55 requests/s=15546 [error=0] cumulative requests/client=74195 [error=0] cumulative requests/s=14128
+15546	0		X	X	X
+elapsed(s)=56 requests/s=15206 [error=0] cumulative requests/client=75715 [error=0] cumulative requests/s=14181
+15206	0		X	X	X
+elapsed(s)=57 requests/s=15477 [error=0] cumulative requests/client=77263 [error=0] cumulative requests/s=14245
+15477	0		X	X	X
+elapsed(s)=58 requests/s=15451 [error=0] cumulative requests/client=78808 [error=0] cumulative requests/s=14305
+15451	0		X	X	X
+elapsed(s)=59 requests/s=15410 [error=0] cumulative requests/client=80349 [error=0] cumulative requests/s=14360
+15410	0		X	X	X
+elapsed(s)=60 requests/s=15406 [error=0] cumulative requests/client=81890 [error=0] cumulative requests/s=14412
+15406	0		X	X	X
+elapsed(s)=61 requests/s=15143 [error=0] cumulative requests/client=83404 [error=0] cumulative requests/s=14448
+15143	0		X	X	X
+elapsed(s)=62 requests/s=14629 [error=0] cumulative requests/client=84867 [error=0] cumulative requests/s=14457
+14629	0		X	X	X
+elapsed(s)=63 requests/s=15397 [error=0] cumulative requests/client=86406 [error=0] cumulative requests/s=14504
+15397	0		X	X	X
+elapsed(s)=64 requests/s=15756 [error=0] cumulative requests/client=87982 [error=0] cumulative requests/s=14566
+15756	0		X	X	X
+elapsed(s)=65 requests/s=15082 [error=0] cumulative requests/client=89490 [error=0] cumulative requests/s=14591
+15082	0		X	X	X
+elapsed(s)=66 requests/s=15536 [error=0] cumulative requests/client=91044 [error=0] cumulative requests/s=14638
+15536	0		X	X	X
+elapsed(s)=67 requests/s=15716 [error=0] cumulative requests/client=92615 [error=0] cumulative requests/s=14691
+15716	0		X	X	X
+elapsed(s)=68 requests/s=15672 [error=0] cumulative requests/client=94183 [error=0] cumulative requests/s=14740
+15672	0		X	X	X
+elapsed(s)=69 requests/s=15606 [error=0] cumulative requests/client=95743 [error=0] cumulative requests/s=14783
+15606	0		X	X	X
+elapsed(s)=70 requests/s=15633 [error=0] cumulative requests/client=97307 [error=0] cumulative requests/s=14825
+15633	0		X	X	X
+elapsed(s)=71 requests/s=15688 [error=0] cumulative requests/client=98875 [error=0] cumulative requests/s=14868
+15688	0		X	X	X
+elapsed(s)=72 requests/s=15582 [error=0] cumulative requests/client=100434 [error=0] cumulative requests/s=14903
+15582	0		X	X	X
+elapsed(s)=73 requests/s=14790 [error=0] cumulative requests/client=101913 [error=0] cumulative requests/s=14897
+14790	0		X	X	X
+elapsed(s)=74 requests/s=14789 [error=0] cumulative requests/client=103391 [error=0] cumulative requests/s=14891
+14789	0		X	X	X
+elapsed(s)=75 requests/s=14870 [error=0] cumulative requests/client=104878 [error=0] cumulative requests/s=14889
+14870	0		X	X	X
+elapsed(s)=76 requests/s=15449 [error=0] cumulative requests/client=106423 [error=0] cumulative requests/s=14917
+15449	0		X	X	X
+elapsed(s)=77 requests/s=15175 [error=0] cumulative requests/client=107941 [error=0] cumulative requests/s=14929
+15175	0		X	X	X
+elapsed(s)=78 requests/s=15122 [error=0] cumulative requests/client=109453 [error=0] cumulative requests/s=14938
+15122	0		X	X	X
+elapsed(s)=79 requests/s=15653 [error=0] cumulative requests/client=111018 [error=0] cumulative requests/s=14973
+15653	0		X	X	X
+elapsed(s)=80 requests/s=16026 [error=0] cumulative requests/client=112621 [error=0] cumulative requests/s=15025
+16026	0		X	X	X
+elapsed(s)=81 requests/s=15950 [error=0] cumulative requests/client=114216 [error=0] cumulative requests/s=15071
+15950	0		X	X	X
+elapsed(s)=82 requests/s=15669 [error=0] cumulative requests/client=115783 [error=0] cumulative requests/s=15100
+15669	0		X	X	X
+elapsed(s)=83 requests/s=15345 [error=0] cumulative requests/client=117317 [error=0] cumulative requests/s=15112
+15345	0		X	X	X
+elapsed(s)=84 requests/s=15319 [error=0] cumulative requests/client=118849 [error=0] cumulative requests/s=15122
+15319	0		X	X	X
+elapsed(s)=85 requests/s=15934 [error=0] cumulative requests/client=120443 [error=0] cumulative requests/s=15162
+15934	0		X	X	X
+elapsed(s)=86 requests/s=16264 [error=0] cumulative requests/client=122069 [error=0] cumulative requests/s=15217
+16264	0		X	X	X
+elapsed(s)=87 requests/s=16273 [error=0] cumulative requests/client=123696 [error=0] cumulative requests/s=15269
+16273	0		X	X	X
+elapsed(s)=88 requests/s=16057 [error=0] cumulative requests/client=125302 [error=0] cumulative requests/s=15308
+16057	0		X	X	X
+elapsed(s)=89 requests/s=16041 [error=0] cumulative requests/client=126906 [error=0] cumulative requests/s=15344
+16041	0		X	X	X
+elapsed(s)=90 requests/s=15837 [error=0] cumulative requests/client=128490 [error=0] cumulative requests/s=15368
+15837	0		X	X	X
+elapsed(s)=91 requests/s=14760 [error=0] cumulative requests/client=129966 [error=0] cumulative requests/s=15337
+14760	0		X	X	X
+elapsed(s)=92 requests/s=15251 [error=0] cumulative requests/client=131491 [error=0] cumulative requests/s=15332
+15251	0		X	X	X
+elapsed(s)=93 requests/s=15404 [error=0] cumulative requests/client=133031 [error=0] cumulative requests/s=15335
+15404	0		X	X	X
+elapsed(s)=94 requests/s=15596 [error=0] cumulative requests/client=134591 [error=0] cumulative requests/s=15348
+15596	0		X	X	X
+elapsed(s)=95 requests/s=16257 [error=0] cumulative requests/client=136217 [error=0] cumulative requests/s=15393
+16257	0		X	X	X
+elapsed(s)=96 requests/s=16233 [error=0] cumulative requests/client=137840 [error=0] cumulative requests/s=15435
+16233	0		X	X	X
+elapsed(s)=97 requests/s=15812 [error=0] cumulative requests/client=139421 [error=0] cumulative requests/s=15453
+15812	0		X	X	X
+elapsed(s)=98 requests/s=16004 [error=0] cumulative requests/client=141022 [error=0] cumulative requests/s=15480
+16004	0		X	X	X
+elapsed(s)=99 requests/s=16164 [error=0] cumulative requests/client=142638 [error=0] cumulative requests/s=15514
+16164	0		X	X	X
+elapsed(s)=100 requests/s=16126 [error=0] cumulative requests/client=144251 [error=0] cumulative requests/s=15544
+16126	0		X	X	X
+elapsed(s)=101 requests/s=15539 [error=0] cumulative requests/client=145804 [error=0] cumulative requests/s=15543
+15539	0		X	X	X
+elapsed(s)=102 requests/s=15099 [error=0] cumulative requests/client=147314 [error=0] cumulative requests/s=15520
+15099	0		X	X	X
+elapsed(s)=103 requests/s=15387 [error=0] cumulative requests/client=148853 [error=0] cumulative requests/s=15513
+15387	0		X	X	X
+elapsed(s)=104 requests/s=15573 [error=0] cumulative requests/client=150410 [error=0] cumulative requests/s=15516
+15573	0		X	X	X
+elapsed(s)=105 requests/s=15924 [error=0] cumulative requests/client=152003 [error=0] cumulative requests/s=15536
+15924	0		X	X	X
+elapsed(s)=106 requests/s=16041 [error=0] cumulative requests/client=153607 [error=0] cumulative requests/s=15561
+16041	0		X	X	X
+elapsed(s)=107 requests/s=16081 [error=0] cumulative requests/client=155215 [error=0] cumulative requests/s=15587
+16081	0		X	X	X
+elapsed(s)=108 requests/s=15982 [error=0] cumulative requests/client=156813 [error=0] cumulative requests/s=15606
+15982	0		X	X	X
+elapsed(s)=109 requests/s=16127 [error=0] cumulative requests/client=158426 [error=0] cumulative requests/s=15632
+16127	0		X	X	X
+elapsed(s)=110 requests/s=16004 [error=0] cumulative requests/client=160026 [error=0] cumulative requests/s=15650
+16004	0		X	X	X
+elapsed(s)=111 requests/s=15700 [error=0] cumulative requests/client=161596 [error=0] cumulative requests/s=15652
+15700	0		X	X	X
+elapsed(s)=112 requests/s=16118 [error=0] cumulative requests/client=163208 [error=0] cumulative requests/s=15675
+16118	0		X	X	X
+elapsed(s)=113 requests/s=16097 [error=0] cumulative requests/client=164818 [error=0] cumulative requests/s=15696
+16097	0		X	X	X
+elapsed(s)=114 requests/s=16139 [error=0] cumulative requests/client=166432 [error=0] cumulative requests/s=15718
+16139	0		X	X	X
+elapsed(s)=115 requests/s=16172 [error=0] cumulative requests/client=168049 [error=0] cumulative requests/s=15740
+16172	0		X	X	X
+elapsed(s)=116 requests/s=16216 [error=0] cumulative requests/client=169670 [error=0] cumulative requests/s=15763
+16216	0		X	X	X
+elapsed(s)=117 requests/s=16076 [error=0] cumulative requests/client=171278 [error=0] cumulative requests/s=15778
+16076	0		X	X	X
+elapsed(s)=118 requests/s=16132 [error=0] cumulative requests/client=172891 [error=0] cumulative requests/s=15795
+16132	0		X	X	X
+elapsed(s)=119 requests/s=16155 [error=0] cumulative requests/client=174507 [error=0] cumulative requests/s=15813
+16155	0		X	X	X
+elapsed(s)=120 requests/s=16030 [error=0] cumulative requests/client=176110 [error=0] cumulative requests/s=15823
+16030	0		X	X	X
+elapsed(s)=121 requests/s=15981 [error=0] cumulative requests/client=177708 [error=0] cumulative requests/s=15830
+15981	0		X	X	X
+elapsed(s)=122 requests/s=15936 [error=0] cumulative requests/client=179301 [error=0] cumulative requests/s=15835
+15936	0		X	X	X
+elapsed(s)=123 requests/s=15423 [error=0] cumulative requests/client=180844 [error=0] cumulative requests/s=15814
+15423	0		X	X	X
+elapsed(s)=124 requests/s=16154 [error=0] cumulative requests/client=182459 [error=0] cumulative requests/s=15831
+16154	0		X	X	X
+elapsed(s)=125 requests/s=15886 [error=0] cumulative requests/client=184048 [error=0] cumulative requests/s=15833
+15886	0		X	X	X
+elapsed(s)=126 requests/s=16101 [error=0] cumulative requests/client=185658 [error=0] cumulative requests/s=15846
+16101	0		X	X	X
+elapsed(s)=127 requests/s=16139 [error=0] cumulative requests/client=187272 [error=0] cumulative requests/s=15860
+16139	0		X	X	X
+elapsed(s)=128 requests/s=16155 [error=0] cumulative requests/client=188887 [error=0] cumulative requests/s=15874
+16155	0		X	X	X
+elapsed(s)=129 requests/s=16224 [error=0] cumulative requests/client=190510 [error=0] cumulative requests/s=15891
+16224	0		X	X	X
+elapsed(s)=130 requests/s=16121 [error=0] cumulative requests/client=192122 [error=0] cumulative requests/s=15902
+16121	0		X	X	X
+elapsed(s)=131 requests/s=16016 [error=0] cumulative requests/client=193723 [error=0] cumulative requests/s=15907
+16016	0		X	X	X
+elapsed(s)=132 requests/s=16071 [error=0] cumulative requests/client=195330 [error=0] cumulative requests/s=15915
+16071	0		X	X	X
+elapsed(s)=133 requests/s=15868 [error=0] cumulative requests/client=196917 [error=0] cumulative requests/s=15912
+15868	0		X	X	X
+elapsed(s)=134 requests/s=15461 [error=0] cumulative requests/client=198463 [error=0] cumulative requests/s=15889
+15461	0		X	X	X
+elapsed(s)=135 requests/s=15552 [error=0] cumulative requests/client=200019 [error=0] cumulative requests/s=15872
+15552	0		X	X	X
+elapsed(s)=136 requests/s=15725 [error=0] cumulative requests/client=201591 [error=0] cumulative requests/s=15864
+15725	0		X	X	X
+elapsed(s)=137 requests/s=15449 [error=0] cumulative requests/client=203136 [error=0] cumulative requests/s=15843
+15449	0		X	X	X
+elapsed(s)=138 requests/s=15206 [error=0] cumulative requests/client=204657 [error=0] cumulative requests/s=15811
+15206	0		X	X	X
+elapsed(s)=139 requests/s=15385 [error=0] cumulative requests/client=206195 [error=0] cumulative requests/s=15789
+15385	0		X	X	X
+elapsed(s)=140 requests/s=14787 [error=0] cumulative requests/client=207674 [error=0] cumulative requests/s=15738
+14787	0		X	X	X
+elapsed(s)=141 requests/s=14749 [error=0] cumulative requests/client=209149 [error=0] cumulative requests/s=15688
+14749	0		X	X	X
+elapsed(s)=142 requests/s=14760 [error=0] cumulative requests/client=210625 [error=0] cumulative requests/s=15641
+14760	0		X	X	X
+elapsed(s)=143 requests/s=14422 [error=0] cumulative requests/client=212067 [error=0] cumulative requests/s=15580
+14422	0		X	X	X
+elapsed(s)=144 requests/s=14765 [error=0] cumulative requests/client=213543 [error=0] cumulative requests/s=15539
+14765	0		X	X	X
+elapsed(s)=145 requests/s=14904 [error=0] cumulative requests/client=215034 [error=0] cumulative requests/s=15507
+14904	0		X	X	X
+elapsed(s)=146 requests/s=15050 [error=0] cumulative requests/client=216539 [error=0] cumulative requests/s=15484
+15050	0		X	X	X
+elapsed(s)=147 requests/s=15623 [error=0] cumulative requests/client=218101 [error=0] cumulative requests/s=15490
+15623	0		X	X	X
+elapsed(s)=148 requests/s=15610 [error=0] cumulative requests/client=219662 [error=0] cumulative requests/s=15496
+15610	0		X	X	X
+elapsed(s)=149 requests/s=15549 [error=0] cumulative requests/client=221217 [error=0] cumulative requests/s=15498
+15549	0		X	X	X
+elapsed(s)=150 requests/s=15322 [error=0] cumulative requests/client=222749 [error=0] cumulative requests/s=15489
+15322	0		X	X	X
+elapsed(s)=151 requests/s=14967 [error=0] cumulative requests/client=224246 [error=0] cumulative requests/s=15462
+14967	0		X	X	X
+elapsed(s)=152 requests/s=14725 [error=0] cumulative requests/client=225718 [error=0] cumulative requests/s=15425
+14725	0		X	X	X
+elapsed(s)=153 requests/s=15561 [error=0] cumulative requests/client=227274 [error=0] cumulative requests/s=15431
+15561	0		X	X	X
+elapsed(s)=154 requests/s=15639 [error=0] cumulative requests/client=228838 [error=0] cumulative requests/s=15441
+15639	0		X	X	X
+elapsed(s)=155 requests/s=15542 [error=0] cumulative requests/client=230393 [error=0] cumulative requests/s=15446
+15542	0		X	X	X
+elapsed(s)=156 requests/s=15470 [error=0] cumulative requests/client=231940 [error=0] cumulative requests/s=15447
+15470	0		X	X	X
+elapsed(s)=157 requests/s=15003 [error=0] cumulative requests/client=233440 [error=0] cumulative requests/s=15424
+15003	0		X	X	X
+elapsed(s)=158 requests/s=14730 [error=0] cumulative requests/client=234913 [error=0] cumulative requests/s=15389
+14730	0		X	X	X
+elapsed(s)=159 requests/s=15337 [error=0] cumulative requests/client=236447 [error=0] cumulative requests/s=15386
+15337	0		X	X	X
+elapsed(s)=160 requests/s=15432 [error=0] cumulative requests/client=237990 [error=0] cumulative requests/s=15388
+15432	0		X	X	X
+elapsed(s)=161 requests/s=15531 [error=0] cumulative requests/client=239543 [error=0] cumulative requests/s=15395
+15531	0		X	X	X
+elapsed(s)=162 requests/s=14901 [error=0] cumulative requests/client=241033 [error=0] cumulative requests/s=15370
+14901	0		X	X	X
+elapsed(s)=163 requests/s=15517 [error=0] cumulative requests/client=242585 [error=0] cumulative requests/s=15377
+15517	0		X	X	X
+elapsed(s)=164 requests/s=15690 [error=0] cumulative requests/client=244154 [error=0] cumulative requests/s=15392
+15690	0		X	X	X
+elapsed(s)=165 requests/s=15646 [error=0] cumulative requests/client=245718 [error=0] cumulative requests/s=15404
+15646	0		X	X	X
+elapsed(s)=166 requests/s=15612 [error=0] cumulative requests/client=247279 [error=0] cumulative requests/s=15414
+15612	0		X	X	X
+elapsed(s)=167 requests/s=15630 [error=0] cumulative requests/client=248842 [error=0] cumulative requests/s=15424
+15630	0		X	X	X
+elapsed(s)=168 requests/s=15577 [error=0] cumulative requests/client=250400 [error=0] cumulative requests/s=15431
+15577	0		X	X	X
+elapsed(s)=169 requests/s=15544 [error=0] cumulative requests/client=251955 [error=0] cumulative requests/s=15436
+15544	0		X	X	X
+elapsed(s)=170 requests/s=15523 [error=0] cumulative requests/client=253507 [error=0] cumulative requests/s=15440
+15523	0		X	X	X
+elapsed(s)=171 requests/s=15634 [error=0] cumulative requests/client=255070 [error=0] cumulative requests/s=15449
+15634	0		X	X	X
+elapsed(s)=172 requests/s=15557 [error=0] cumulative requests/client=256626 [error=0] cumulative requests/s=15454
+15557	0		X	X	X
+elapsed(s)=173 requests/s=15240 [error=0] cumulative requests/client=258150 [error=0] cumulative requests/s=15443
+15240	0		X	X	X
+elapsed(s)=174 requests/s=15514 [error=0] cumulative requests/client=259701 [error=0] cumulative requests/s=15446
+15514	0		X	X	X
+elapsed(s)=175 requests/s=15737 [error=0] cumulative requests/client=261275 [error=0] cumulative requests/s=15460
+15737	0		X	X	X
+elapsed(s)=176 requests/s=15758 [error=0] cumulative requests/client=262851 [error=0] cumulative requests/s=15474
+15758	0		X	X	X
+elapsed(s)=177 requests/s=15521 [error=0] cumulative requests/client=264403 [error=0] cumulative requests/s=15476
+15521	0		X	X	X
+elapsed(s)=178 requests/s=15442 [error=0] cumulative requests/client=265947 [error=0] cumulative requests/s=15474
+15442	0		X	X	X
+elapsed(s)=179 requests/s=15292 [error=0] cumulative requests/client=267476 [error=0] cumulative requests/s=15464
+15292	0		X	X	X
+elapsed(s)=180 requests/s=15558 [error=0] cumulative requests/client=269032 [error=0] cumulative requests/s=15468
+15558	0		X	X	X
+elapsed(s)=181 requests/s=15698 [error=0] cumulative requests/client=270602 [error=0] cumulative requests/s=15479
+15698	0		X	X	X
+elapsed(s)=182 requests/s=15690 [error=0] cumulative requests/client=272171 [error=0] cumulative requests/s=15489
+15690	0		X	X	X
+elapsed(s)=183 requests/s=15581 [error=0] cumulative requests/client=273729 [error=0] cumulative requests/s=15493
+15581	0		X	X	X
+elapsed(s)=184 requests/s=15287 [error=0] cumulative requests/client=275258 [error=0] cumulative requests/s=15482
+15287	0		X	X	X
+elapsed(s)=185 requests/s=14937 [error=0] cumulative requests/client=276751 [error=0] cumulative requests/s=15454
+14937	0		X	X	X
+elapsed(s)=186 requests/s=14723 [error=0] cumulative requests/client=278224 [error=0] cumulative requests/s=15417
+14723	0		X	X	X
+elapsed(s)=187 requests/s=15349 [error=0] cumulative requests/client=279759 [error=0] cumulative requests/s=15413
+15349	0		X	X	X
+elapsed(s)=188 requests/s=15413 [error=0] cumulative requests/client=281300 [error=0] cumulative requests/s=15413
+15413	0		X	X	X
+elapsed(s)=189 requests/s=15587 [error=0] cumulative requests/client=282859 [error=0] cumulative requests/s=15421
+15587	0		X	X	X
+elapsed(s)=190 requests/s=15654 [error=0] cumulative requests/client=284424 [error=0] cumulative requests/s=15432
+15654	0		X	X	X
+elapsed(s)=191 requests/s=15750 [error=0] cumulative requests/client=285999 [error=0] cumulative requests/s=15447
+15750	0		X	X	X
+elapsed(s)=192 requests/s=15816 [error=0] cumulative requests/client=287581 [error=0] cumulative requests/s=15465
+15816	0		X	X	X
+elapsed(s)=193 requests/s=15486 [error=0] cumulative requests/client=289129 [error=0] cumulative requests/s=15466
+15486	0		X	X	X
+elapsed(s)=194 requests/s=15551 [error=0] cumulative requests/client=290684 [error=0] cumulative requests/s=15470
+15551	0		X	X	X
+elapsed(s)=195 requests/s=15569 [error=0] cumulative requests/client=292241 [error=0] cumulative requests/s=15474
+15569	0		X	X	X
+elapsed(s)=196 requests/s=15362 [error=0] cumulative requests/client=293777 [error=0] cumulative requests/s=15468
+15362	0		X	X	X
+elapsed(s)=197 requests/s=15608 [error=0] cumulative requests/client=295338 [error=0] cumulative requests/s=15475
+15608	0		X	X	X
+elapsed(s)=198 requests/s=14818 [error=0] cumulative requests/client=296820 [error=0] cumulative requests/s=15442
+14818	0		X	X	X
+elapsed(s)=199 requests/s=15361 [error=0] cumulative requests/client=298356 [error=0] cumulative requests/s=15437
+15361	0		X	X	X
+elapsed(s)=200 requests/s=15483 [error=0] cumulative requests/client=299904 [error=0] cumulative requests/s=15439
+15483	0		X	X	X
+elapsed(s)=201 requests/s=15576 [error=0] cumulative requests/client=301462 [error=0] cumulative requests/s=15445
+15576	0		X	X	X
+elapsed(s)=202 requests/s=15518 [error=0] cumulative requests/client=303014 [error=0] cumulative requests/s=15448
+15518	0		X	X	X
+elapsed(s)=203 requests/s=15519 [error=0] cumulative requests/client=304566 [error=0] cumulative requests/s=15451
+15519	0		X	X	X
+elapsed(s)=204 requests/s=15272 [error=0] cumulative requests/client=306093 [error=0] cumulative requests/s=15442
+15272	0		X	X	X
+elapsed(s)=205 requests/s=15259 [error=0] cumulative requests/client=307619 [error=0] cumulative requests/s=15432
+15259	0		X	X	X
+elapsed(s)=206 requests/s=15512 [error=0] cumulative requests/client=309170 [error=0] cumulative requests/s=15436
+15512	0		X	X	X
+elapsed(s)=207 requests/s=15549 [error=0] cumulative requests/client=310725 [error=0] cumulative requests/s=15441
+15549	0		X	X	X
+elapsed(s)=208 requests/s=15544 [error=0] cumulative requests/client=312279 [error=0] cumulative requests/s=15446
+15544	0		X	X	X
+elapsed(s)=209 requests/s=15675 [error=0] cumulative requests/client=313847 [error=0] cumulative requests/s=15457
+15675	0		X	X	X
+elapsed(s)=210 requests/s=15011 [error=0] cumulative requests/client=315348 [error=0] cumulative requests/s=15434
+15011	0		X	X	X
+elapsed(s)=211 requests/s=15377 [error=0] cumulative requests/client=316886 [error=0] cumulative requests/s=15431
+15377	0		X	X	X
+elapsed(s)=212 requests/s=15684 [error=0] cumulative requests/client=318454 [error=0] cumulative requests/s=15443
+15684	0		X	X	X
+elapsed(s)=213 requests/s=15334 [error=0] cumulative requests/client=319987 [error=0] cumulative requests/s=15437
+15334	0		X	X	X
+elapsed(s)=214 requests/s=15664 [error=0] cumulative requests/client=321554 [error=0] cumulative requests/s=15448
+15664	0		X	X	X
+elapsed(s)=215 requests/s=15627 [error=0] cumulative requests/client=323117 [error=0] cumulative requests/s=15456
+15627	0		X	X	X
+elapsed(s)=216 requests/s=15693 [error=0] cumulative requests/client=324686 [error=0] cumulative requests/s=15467
+15693	0		X	X	X
+elapsed(s)=217 requests/s=15666 [error=0] cumulative requests/client=326252 [error=0] cumulative requests/s=15476
+15666	0		X	X	X
+elapsed(s)=218 requests/s=15553 [error=0] cumulative requests/client=327808 [error=0] cumulative requests/s=15479
+15553	0		X	X	X
+elapsed(s)=219 requests/s=15597 [error=0] cumulative requests/client=329367 [error=0] cumulative requests/s=15484
+15597	0		X	X	X
+elapsed(s)=220 requests/s=15722 [error=0] cumulative requests/client=330940 [error=0] cumulative requests/s=15495
+15722	0		X	X	X
+elapsed(s)=221 requests/s=15768 [error=0] cumulative requests/client=332516 [error=0] cumulative requests/s=15508
+15768	0		X	X	X
+elapsed(s)=222 requests/s=15984 [error=0] cumulative requests/client=334115 [error=0] cumulative requests/s=15531
+15984	0		X	X	X
+elapsed(s)=223 requests/s=16110 [error=0] cumulative requests/client=335726 [error=0] cumulative requests/s=15559
+16110	0		X	X	X
+elapsed(s)=224 requests/s=16130 [error=0] cumulative requests/client=337339 [error=0] cumulative requests/s=15587
+16130	0		X	X	X
+elapsed(s)=225 requests/s=16173 [error=0] cumulative requests/client=338956 [error=0] cumulative requests/s=15616
+16173	0		X	X	X
+elapsed(s)=226 requests/s=16125 [error=0] cumulative requests/client=340569 [error=0] cumulative requests/s=15641
+16125	0		X	X	X
+elapsed(s)=227 requests/s=16022 [error=0] cumulative requests/client=342171 [error=0] cumulative requests/s=15660
+16022	0		X	X	X
+elapsed(s)=228 requests/s=15941 [error=0] cumulative requests/client=343765 [error=0] cumulative requests/s=15674
+15941	0		X	X	X
+elapsed(s)=229 requests/s=15466 [error=0] cumulative requests/client=345312 [error=0] cumulative requests/s=15663
+15466	0		X	X	X
+elapsed(s)=230 requests/s=15917 [error=0] cumulative requests/client=346903 [error=0] cumulative requests/s=15675
+15917	0		X	X	X
+elapsed(s)=231 requests/s=16188 [error=0] cumulative requests/client=348522 [error=0] cumulative requests/s=15700
+16188	0		X	X	X
+elapsed(s)=232 requests/s=16141 [error=0] cumulative requests/client=350136 [error=0] cumulative requests/s=15722
+16141	0		X	X	X
+elapsed(s)=233 requests/s=16089 [error=0] cumulative requests/client=351745 [error=0] cumulative requests/s=15740
+16089	0		X	X	X
+elapsed(s)=234 requests/s=16011 [error=0] cumulative requests/client=353346 [error=0] cumulative requests/s=15753
+16011	0		X	X	X
+elapsed(s)=235 requests/s=16247 [error=0] cumulative requests/client=354971 [error=0] cumulative requests/s=15777
+16247	0		X	X	X
+elapsed(s)=236 requests/s=16236 [error=0] cumulative requests/client=356594 [error=0] cumulative requests/s=15799
+16236	0		X	X	X
+elapsed(s)=237 requests/s=16002 [error=0] cumulative requests/client=358195 [error=0] cumulative requests/s=15809
+16002	0		X	X	X
+elapsed(s)=238 requests/s=15923 [error=0] cumulative requests/client=359787 [error=0] cumulative requests/s=15814
+15923	0		X	X	X
+elapsed(s)=239 requests/s=16102 [error=0] cumulative requests/client=361397 [error=0] cumulative requests/s=15828
+16102	0		X	X	X
+elapsed(s)=240 requests/s=16170 [error=0] cumulative requests/client=363014 [error=0] cumulative requests/s=15845
+16170	0		X	X	X
+elapsed(s)=241 requests/s=15928 [error=0] cumulative requests/client=364607 [error=0] cumulative requests/s=15849
+15928	0		X	X	X
+elapsed(s)=242 requests/s=15959 [error=0] cumulative requests/client=366203 [error=0] cumulative requests/s=15854
+15959	0		X	X	X
+elapsed(s)=243 requests/s=16108 [error=0] cumulative requests/client=367814 [error=0] cumulative requests/s=15866
+16108	0		X	X	X
+elapsed(s)=244 requests/s=16135 [error=0] cumulative requests/client=369427 [error=0] cumulative requests/s=15879
+16135	0		X	X	X
+elapsed(s)=245 requests/s=16277 [error=0] cumulative requests/client=371055 [error=0] cumulative requests/s=15898
+16277	0		X	X	X
+elapsed(s)=246 requests/s=15596 [error=0] cumulative requests/client=372614 [error=0] cumulative requests/s=15882
+15596	0		X	X	X
+elapsed(s)=247 requests/s=16048 [error=0] cumulative requests/client=374219 [error=0] cumulative requests/s=15890
+16048	0		X	X	X
+elapsed(s)=248 requests/s=16157 [error=0] cumulative requests/client=375835 [error=0] cumulative requests/s=15903
+16157	0		X	X	X
+elapsed(s)=249 requests/s=16186 [error=0] cumulative requests/client=377454 [error=0] cumulative requests/s=15917
+16186	0		X	X	X
+elapsed(s)=250 requests/s=16260 [error=0] cumulative requests/client=379080 [error=0] cumulative requests/s=15934
+16260	0		X	X	X
+elapsed(s)=251 requests/s=16156 [error=0] cumulative requests/client=380695 [error=0] cumulative requests/s=15945
+16156	0		X	X	X
+elapsed(s)=252 requests/s=16039 [error=0] cumulative requests/client=382299 [error=0] cumulative requests/s=15949
+16039	0		X	X	X
+elapsed(s)=253 requests/s=16091 [error=0] cumulative requests/client=383908 [error=0] cumulative requests/s=15956
+16091	0		X	X	X
+elapsed(s)=254 requests/s=16011 [error=0] cumulative requests/client=385509 [error=0] cumulative requests/s=15958
+16011	0		X	X	X
+elapsed(s)=255 requests/s=15885 [error=0] cumulative requests/client=387098 [error=0] cumulative requests/s=15954
+15885	0		X	X	X
+elapsed(s)=256 requests/s=15971 [error=0] cumulative requests/client=388695 [error=0] cumulative requests/s=15954
+15971	0		X	X	X
+elapsed(s)=257 requests/s=15450 [error=0] cumulative requests/client=390240 [error=0] cumulative requests/s=15928
+15450	0		X	X	X
+elapsed(s)=258 requests/s=15189 [error=0] cumulative requests/client=391759 [error=0] cumulative requests/s=15891
+15189	0		X	X	X
+elapsed(s)=259 requests/s=14882 [error=0] cumulative requests/client=393247 [error=0] cumulative requests/s=15840
+14882	0		X	X	X
+elapsed(s)=260 requests/s=14840 [error=0] cumulative requests/client=394731 [error=0] cumulative requests/s=15790
+14840	0		X	X	X
+elapsed(s)=261 requests/s=15201 [error=0] cumulative requests/client=396251 [error=0] cumulative requests/s=15760
+15201	0		X	X	X
+elapsed(s)=262 requests/s=15025 [error=0] cumulative requests/client=397754 [error=0] cumulative requests/s=15723
+15025	0		X	X	X
+elapsed(s)=263 requests/s=14865 [error=0] cumulative requests/client=399240 [error=0] cumulative requests/s=15680
+14865	0		X	X	X
+elapsed(s)=264 requests/s=15107 [error=0] cumulative requests/client=400751 [error=0] cumulative requests/s=15651
+15107	0		X	X	X
+elapsed(s)=265 requests/s=15546 [error=0] cumulative requests/client=402305 [error=0] cumulative requests/s=15645
+15546	0		X	X	X
+elapsed(s)=266 requests/s=16134 [error=0] cumulative requests/client=403919 [error=0] cumulative requests/s=15669
+16134	0		X	X	X
+elapsed(s)=267 requests/s=16160 [error=0] cumulative requests/client=405535 [error=0] cumulative requests/s=15693
+16160	0		X	X	X
+elapsed(s)=268 requests/s=16168 [error=0] cumulative requests/client=407152 [error=0] cumulative requests/s=15716
+16168	0		X	X	X
+elapsed(s)=269 requests/s=15992 [error=0] cumulative requests/client=408751 [error=0] cumulative requests/s=15729
+15992	0		X	X	X
+elapsed(s)=270 requests/s=14971 [error=0] cumulative requests/client=410248 [error=0] cumulative requests/s=15691
+14971	0		X	X	X
+elapsed(s)=271 requests/s=15393 [error=0] cumulative requests/client=411787 [error=0] cumulative requests/s=15676
+15393	0		X	X	X
+elapsed(s)=272 requests/s=16075 [error=0] cumulative requests/client=413395 [error=0] cumulative requests/s=15695
+16075	0		X	X	X
+elapsed(s)=273 requests/s=15337 [error=0] cumulative requests/client=414928 [error=0] cumulative requests/s=15677
+15337	0		X	X	X
+elapsed(s)=274 requests/s=15863 [error=0] cumulative requests/client=416515 [error=0] cumulative requests/s=15686
+15863	0		X	X	X
+elapsed(s)=275 requests/s=16149 [error=0] cumulative requests/client=418130 [error=0] cumulative requests/s=15709
+16149	0		X	X	X
+elapsed(s)=276 requests/s=16278 [error=0] cumulative requests/client=419757 [error=0] cumulative requests/s=15737
+16278	0		X	X	X
+elapsed(s)=277 requests/s=16089 [error=0] cumulative requests/client=421366 [error=0] cumulative requests/s=15754
+16089	0		X	X	X
+elapsed(s)=278 requests/s=16142 [error=0] cumulative requests/client=422980 [error=0] cumulative requests/s=15773
+16142	0		X	X	X
+elapsed(s)=279 requests/s=16192 [error=0] cumulative requests/client=424600 [error=0] cumulative requests/s=15793
+16192	0		X	X	X
+elapsed(s)=280 requests/s=16069 [error=0] cumulative requests/client=426207 [error=0] cumulative requests/s=15806
+16069	0		X	X	X
+elapsed(s)=281 requests/s=16063 [error=0] cumulative requests/client=427813 [error=0] cumulative requests/s=15818
+16063	0		X	X	X
+elapsed(s)=282 requests/s=16026 [error=0] cumulative requests/client=429415 [error=0] cumulative requests/s=15828
+16026	0		X	X	X
+elapsed(s)=283 requests/s=16135 [error=0] cumulative requests/client=431029 [error=0] cumulative requests/s=15843
+16135	0		X	X	X
+elapsed(s)=284 requests/s=16260 [error=0] cumulative requests/client=432655 [error=0] cumulative requests/s=15863
+16260	0		X	X	X
+elapsed(s)=285 requests/s=16278 [error=0] cumulative requests/client=434283 [error=0] cumulative requests/s=15883
+16278	0		X	X	X
+elapsed(s)=287 requests/s=15639 [error=0] cumulative requests/client=435847 [error=0] cumulative requests/s=15870
+15639	0		X	X	X
+elapsed(s)=288 requests/s=16139 [error=0] cumulative requests/client=437461 [error=0] cumulative requests/s=15883
+16139	0		X	X	X
+elapsed(s)=289 requests/s=16101 [error=0] cumulative requests/client=439071 [error=0] cumulative requests/s=15893
+16101	0		X	X	X
+elapsed(s)=290 requests/s=16175 [error=0] cumulative requests/client=440688 [error=0] cumulative requests/s=15907
+16175	0		X	X	X
+elapsed(s)=291 requests/s=16104 [error=0] cumulative requests/client=442299 [error=0] cumulative requests/s=15916
+16104	0		X	X	X
+elapsed(s)=292 requests/s=16074 [error=0] cumulative requests/client=443906 [error=0] cumulative requests/s=15923
+16074	0		X	X	X
+elapsed(s)=293 requests/s=15970 [error=0] cumulative requests/client=445503 [error=0] cumulative requests/s=15925
+15970	0		X	X	X
+elapsed(s)=294 requests/s=16178 [error=0] cumulative requests/client=447121 [error=0] cumulative requests/s=15937
+16178	0		X	X	X
+elapsed(s)=295 requests/s=15753 [error=0] cumulative requests/client=448696 [error=0] cumulative requests/s=15927
+15753	0		X	X	X
+elapsed(s)=296 requests/s=16111 [error=0] cumulative requests/client=450307 [error=0] cumulative requests/s=15936
+16111	0		X	X	X
+elapsed(s)=297 requests/s=16086 [error=0] cumulative requests/client=451916 [error=0] cumulative requests/s=15943
+16086	0		X	X	X
+elapsed(s)=298 requests/s=15964 [error=0] cumulative requests/client=453512 [error=0] cumulative requests/s=15944
+15964	0		X	X	X
+elapsed(s)=299 requests/s=16006 [error=0] cumulative requests/client=455113 [error=0] cumulative requests/s=15947
+16006	0		X	X	X
+elapsed(s)=300 requests/s=16283 [error=0] cumulative requests/client=456741 [error=0] cumulative requests/s=15963
+16283	0		X	X	X
+elapsed(s)=301 requests/s=16215 [error=0] cumulative requests/client=458363 [error=0] cumulative requests/s=15975
+16215	0		X	X	X
+elapsed(s)=302 requests/s=16163 [error=0] cumulative requests/client=459979 [error=0] cumulative requests/s=15984
+16163	0		X	X	X
+elapsed(s)=303 requests/s=15949 [error=0] cumulative requests/client=461574 [error=0] cumulative requests/s=15982
+15949	0		X	X	X
+elapsed(s)=304 requests/s=15877 [error=0] cumulative requests/client=463161 [error=0] cumulative requests/s=15976
+15877	0		X	X	X
+elapsed(s)=305 requests/s=16162 [error=0] cumulative requests/client=464778 [error=0] cumulative requests/s=15985
+16162	0		X	X	X
+elapsed(s)=306 requests/s=16228 [error=0] cumulative requests/client=466400 [error=0] cumulative requests/s=15997
+16228	0		X	X	X
+elapsed(s)=307 requests/s=16092 [error=0] cumulative requests/client=468010 [error=0] cumulative requests/s=16001
+16092	0		X	X	X
+elapsed(s)=308 requests/s=16057 [error=0] cumulative requests/client=469615 [error=0] cumulative requests/s=16003
+16057	0		X	X	X
+elapsed(s)=309 requests/s=16078 [error=0] cumulative requests/client=471223 [error=0] cumulative requests/s=16006
+16078	0		X	X	X
+elapsed(s)=310 requests/s=15941 [error=0] cumulative requests/client=472817 [error=0] cumulative requests/s=16002
+15941	0		X	X	X
+elapsed(s)=311 requests/s=15664 [error=0] cumulative requests/client=474384 [error=0] cumulative requests/s=15985
+15664	0		X	X	X
+elapsed(s)=312 requests/s=15171 [error=0] cumulative requests/client=475901 [error=0] cumulative requests/s=15944
+15171	0		X	X	X
+elapsed(s)=313 requests/s=15176 [error=0] cumulative requests/client=477418 [error=0] cumulative requests/s=15905
+15176	0		X	X	X
+elapsed(s)=314 requests/s=15268 [error=0] cumulative requests/client=478945 [error=0] cumulative requests/s=15873
+15268	0		X	X	X
+elapsed(s)=315 requests/s=15206 [error=0] cumulative requests/client=480466 [error=0] cumulative requests/s=15839
+15206	0		X	X	X
+elapsed(s)=316 requests/s=16109 [error=0] cumulative requests/client=482077 [error=0] cumulative requests/s=15852
+16109	0		X	X	X
+elapsed(s)=317 requests/s=16128 [error=0] cumulative requests/client=483689 [error=0] cumulative requests/s=15865
+16128	0		X	X	X
+elapsed(s)=318 requests/s=15288 [error=0] cumulative requests/client=485218 [error=0] cumulative requests/s=15836
+15288	0		X	X	X
+elapsed(s)=319 requests/s=15865 [error=0] cumulative requests/client=486805 [error=0] cumulative requests/s=15837
+15865	0		X	X	X
+elapsed(s)=320 requests/s=16057 [error=0] cumulative requests/client=488410 [error=0] cumulative requests/s=15848
+16057	0		X	X	X
+elapsed(s)=321 requests/s=16064 [error=0] cumulative requests/client=490017 [error=0] cumulative requests/s=15858
+16064	0		X	X	X
+elapsed(s)=322 requests/s=16040 [error=0] cumulative requests/client=491621 [error=0] cumulative requests/s=15867
+16040	0		X	X	X
+elapsed(s)=323 requests/s=16024 [error=0] cumulative requests/client=493223 [error=0] cumulative requests/s=15874
+16024	0		X	X	X
+elapsed(s)=324 requests/s=15940 [error=0] cumulative requests/client=494817 [error=0] cumulative requests/s=15877
+15940	0		X	X	X
+elapsed(s)=325 requests/s=16001 [error=0] cumulative requests/client=496417 [error=0] cumulative requests/s=15883
+16001	0		X	X	X
+elapsed(s)=326 requests/s=15789 [error=0] cumulative requests/client=497996 [error=0] cumulative requests/s=15878
+15789	0		X	X	X
+elapsed(s)=327 requests/s=15876 [error=0] cumulative requests/client=499584 [error=0] cumulative requests/s=15877
+15876	0		X	X	X
+elapsed(s)=328 requests/s=15917 [error=0] cumulative requests/client=501176 [error=0] cumulative requests/s=15879
+15917	0		X	X	X
+elapsed(s)=329 requests/s=16075 [error=0] cumulative requests/client=502783 [error=0] cumulative requests/s=15888
+16075	0		X	X	X
+elapsed(s)=330 requests/s=15821 [error=0] cumulative requests/client=504365 [error=0] cumulative requests/s=15884
+15821	0		X	X	X
+elapsed(s)=331 requests/s=15562 [error=0] cumulative requests/client=505921 [error=0] cumulative requests/s=15867
+15562	0		X	X	X
+elapsed(s)=332 requests/s=15898 [error=0] cumulative requests/client=507511 [error=0] cumulative requests/s=15868
+15898	0		X	X	X
+elapsed(s)=333 requests/s=15883 [error=0] cumulative requests/client=509099 [error=0] cumulative requests/s=15868
+15883	0		X	X	X
+elapsed(s)=334 requests/s=15918 [error=0] cumulative requests/client=510691 [error=0] cumulative requests/s=15870
+15918	0		X	X	X
+elapsed(s)=335 requests/s=15139 [error=0] cumulative requests/client=512205 [error=0] cumulative requests/s=15833
+15139	0		X	X	X
+elapsed(s)=336 requests/s=16097 [error=0] cumulative requests/client=513815 [error=0] cumulative requests/s=15846
+16097	0		X	X	X
+elapsed(s)=337 requests/s=16201 [error=0] cumulative requests/client=515435 [error=0] cumulative requests/s=15863
+16201	0		X	X	X
+elapsed(s)=338 requests/s=16083 [error=0] cumulative requests/client=517043 [error=0] cumulative requests/s=15874
+16083	0		X	X	X
+elapsed(s)=339 requests/s=16073 [error=0] cumulative requests/client=518651 [error=0] cumulative requests/s=15883
+16073	0		X	X	X
+elapsed(s)=340 requests/s=15899 [error=0] cumulative requests/client=520240 [error=0] cumulative requests/s=15883
+15899	0		X	X	X
+elapsed(s)=341 requests/s=16113 [error=0] cumulative requests/client=521852 [error=0] cumulative requests/s=15894
+16113	0		X	X	X
+elapsed(s)=342 requests/s=16004 [error=0] cumulative requests/client=523452 [error=0] cumulative requests/s=15899
+16004	0		X	X	X
+elapsed(s)=343 requests/s=16091 [error=0] cumulative requests/client=525061 [error=0] cumulative requests/s=15908
+16091	0		X	X	X
+elapsed(s)=344 requests/s=15642 [error=0] cumulative requests/client=526625 [error=0] cumulative requests/s=15894
+15642	0		X	X	X
+elapsed(s)=345 requests/s=16089 [error=0] cumulative requests/client=528234 [error=0] cumulative requests/s=15903
+16089	0		X	X	X
+elapsed(s)=346 requests/s=16232 [error=0] cumulative requests/client=529858 [error=0] cumulative requests/s=15919
+16232	0		X	X	X
+elapsed(s)=347 requests/s=16191 [error=0] cumulative requests/client=531477 [error=0] cumulative requests/s=15932
+16191	0		X	X	X
+elapsed(s)=348 requests/s=16235 [error=0] cumulative requests/client=533100 [error=0] cumulative requests/s=15947
+16235	0		X	X	X
+elapsed(s)=349 requests/s=16272 [error=0] cumulative requests/client=534727 [error=0] cumulative requests/s=15963
+16272	0		X	X	X
+elapsed(s)=350 requests/s=16189 [error=0] cumulative requests/client=536346 [error=0] cumulative requests/s=15974
+16189	0		X	X	X
+elapsed(s)=351 requests/s=15882 [error=0] cumulative requests/client=537934 [error=0] cumulative requests/s=15969
+15882	0		X	X	X
+elapsed(s)=352 requests/s=16145 [error=0] cumulative requests/client=539549 [error=0] cumulative requests/s=15977
+16145	0		X	X	X
+elapsed(s)=353 requests/s=16044 [error=0] cumulative requests/client=541153 [error=0] cumulative requests/s=15980
+16044	0		X	X	X
+elapsed(s)=354 requests/s=16063 [error=0] cumulative requests/client=542760 [error=0] cumulative requests/s=15984
+16063	0		X	X	X
+elapsed(s)=355 requests/s=16223 [error=0] cumulative requests/client=544382 [error=0] cumulative requests/s=15995
+16223	0		X	X	X
+elapsed(s)=356 requests/s=16266 [error=0] cumulative requests/client=546009 [error=0] cumulative requests/s=16008
+16266	0		X	X	X
+elapsed(s)=357 requests/s=16182 [error=0] cumulative requests/client=547627 [error=0] cumulative requests/s=16016
+16182	0		X	X	X
+elapsed(s)=358 requests/s=16149 [error=0] cumulative requests/client=549242 [error=0] cumulative requests/s=16022
+16149	0		X	X	X
+elapsed(s)=359 requests/s=16021 [error=0] cumulative requests/client=550844 [error=0] cumulative requests/s=16021
+16021	0		X	X	X
+elapsed(s)=360 requests/s=16019 [error=0] cumulative requests/client=552446 [error=0] cumulative requests/s=16020
+16019	0		X	X	X
+elapsed(s)=361 requests/s=16000 [error=0] cumulative requests/client=554046 [error=0] cumulative requests/s=16019
+16000	0		X	X	X
+elapsed(s)=362 requests/s=15871 [error=0] cumulative requests/client=555633 [error=0] cumulative requests/s=16011
+15871	0		X	X	X
+elapsed(s)=363 requests/s=15919 [error=0] cumulative requests/client=557225 [error=0] cumulative requests/s=16006
+15919	0		X	X	X
+elapsed(s)=364 requests/s=15903 [error=0] cumulative requests/client=558815 [error=0] cumulative requests/s=16000
+15903	0		X	X	X
+elapsed(s)=365 requests/s=15981 [error=0] cumulative requests/client=560413 [error=0] cumulative requests/s=15999
+15981	0		X	X	X
+elapsed(s)=366 requests/s=15963 [error=0] cumulative requests/client=562009 [error=0] cumulative requests/s=15997
+15963	0		X	X	X
+elapsed(s)=367 requests/s=16136 [error=0] cumulative requests/client=563623 [error=0] cumulative requests/s=16003
+16136	0		X	X	X
+elapsed(s)=368 requests/s=15871 [error=0] cumulative requests/client=565210 [error=0] cumulative requests/s=15996
+15871	0		X	X	X
+elapsed(s)=369 requests/s=16004 [error=0] cumulative requests/client=566810 [error=0] cumulative requests/s=15996
+16004	0		X	X	X
+elapsed(s)=370 requests/s=15872 [error=0] cumulative requests/client=568398 [error=0] cumulative requests/s=15989
+15872	0		X	X	X
+elapsed(s)=371 requests/s=15710 [error=0] cumulative requests/client=569969 [error=0] cumulative requests/s=15975
+15710	0		X	X	X
+elapsed(s)=372 requests/s=15041 [error=0] cumulative requests/client=571473 [error=0] cumulative requests/s=15928
+15041	0		X	X	X
+elapsed(s)=373 requests/s=16216 [error=0] cumulative requests/client=573094 [error=0] cumulative requests/s=15942
+16216	0		X	X	X
+elapsed(s)=374 requests/s=16041 [error=0] cumulative requests/client=574698 [error=0] cumulative requests/s=15946
+16041	0		X	X	X
+elapsed(s)=375 requests/s=15988 [error=0] cumulative requests/client=576297 [error=0] cumulative requests/s=15948
+15988	0		X	X	X
+elapsed(s)=376 requests/s=16099 [error=0] cumulative requests/client=577907 [error=0] cumulative requests/s=15955
+16099	0		X	X	X
+elapsed(s)=377 requests/s=15966 [error=0] cumulative requests/client=579504 [error=0] cumulative requests/s=15955
+15966	0		X	X	X
+elapsed(s)=378 requests/s=16258 [error=0] cumulative requests/client=581130 [error=0] cumulative requests/s=15970
+16258	0		X	X	X
+elapsed(s)=379 requests/s=15770 [error=0] cumulative requests/client=582707 [error=0] cumulative requests/s=15960
+15770	0		X	X	X
+elapsed(s)=380 requests/s=15114 [error=0] cumulative requests/client=584218 [error=0] cumulative requests/s=15917
+15114	0		X	X	X
+elapsed(s)=381 requests/s=15961 [error=0] cumulative requests/client=585814 [error=0] cumulative requests/s=15919
+15961	0		X	X	X
+elapsed(s)=382 requests/s=16046 [error=0] cumulative requests/client=587419 [error=0] cumulative requests/s=15925
+16046	0		X	X	X
+elapsed(s)=383 requests/s=15793 [error=0] cumulative requests/client=588998 [error=0] cumulative requests/s=15918
+15793	0		X	X	X
+elapsed(s)=384 requests/s=16167 [error=0] cumulative requests/client=590615 [error=0] cumulative requests/s=15930
+16167	0		X	X	X
+elapsed(s)=385 requests/s=15883 [error=0] cumulative requests/client=592203 [error=0] cumulative requests/s=15927
+15883	0		X	X	X
+elapsed(s)=386 requests/s=15882 [error=0] cumulative requests/client=593791 [error=0] cumulative requests/s=15924
+15882	0		X	X	X
+elapsed(s)=387 requests/s=16087 [error=0] cumulative requests/client=595400 [error=0] cumulative requests/s=15932
+16087	0		X	X	X
+elapsed(s)=388 requests/s=15992 [error=0] cumulative requests/client=596999 [error=0] cumulative requests/s=15935
+15992	0		X	X	X
+elapsed(s)=389 requests/s=15640 [error=0] cumulative requests/client=598563 [error=0] cumulative requests/s=15920
+15640	0		X	X	X
+elapsed(s)=390 requests/s=16124 [error=0] cumulative requests/client=600175 [error=0] cumulative requests/s=15930
+16124	0		X	X	X
+elapsed(s)=391 requests/s=16130 [error=0] cumulative requests/client=601788 [error=0] cumulative requests/s=15940
+16130	0		X	X	X
+elapsed(s)=392 requests/s=15933 [error=0] cumulative requests/client=603382 [error=0] cumulative requests/s=15939
+15933	0		X	X	X
+elapsed(s)=393 requests/s=15875 [error=0] cumulative requests/client=604969 [error=0] cumulative requests/s=15935
+15875	0		X	X	X
+elapsed(s)=394 requests/s=15737 [error=0] cumulative requests/client=606543 [error=0] cumulative requests/s=15925
+15737	0		X	X	X
+elapsed(s)=395 requests/s=15569 [error=0] cumulative requests/client=608100 [error=0] cumulative requests/s=15907
+15569	0		X	X	X
+elapsed(s)=396 requests/s=14950 [error=0] cumulative requests/client=609595 [error=0] cumulative requests/s=15859
+14950	0		X	X	X
+elapsed(s)=397 requests/s=15367 [error=0] cumulative requests/client=611132 [error=0] cumulative requests/s=15834
+15367	0		X	X	X
+elapsed(s)=398 requests/s=15051 [error=0] cumulative requests/client=612637 [error=0] cumulative requests/s=15794
+15051	0		X	X	X
+elapsed(s)=399 requests/s=15450 [error=0] cumulative requests/client=614182 [error=0] cumulative requests/s=15776
+15450	0		X	X	X
+elapsed(s)=400 requests/s=16124 [error=0] cumulative requests/client=615794 [error=0] cumulative requests/s=15793
+16124	0		X	X	X
+elapsed(s)=401 requests/s=16056 [error=0] cumulative requests/client=617400 [error=0] cumulative requests/s=15806
+16056	0		X	X	X
+elapsed(s)=402 requests/s=15922 [error=0] cumulative requests/client=618992 [error=0] cumulative requests/s=15811
+15922	0		X	X	X
+elapsed(s)=403 requests/s=16126 [error=0] cumulative requests/client=620604 [error=0] cumulative requests/s=15826
+16126	0		X	X	X
+elapsed(s)=404 requests/s=16007 [error=0] cumulative requests/client=622205 [error=0] cumulative requests/s=15835
+16007	0		X	X	X
+elapsed(s)=405 requests/s=16082 [error=0] cumulative requests/client=623813 [error=0] cumulative requests/s=15847
+16082	0		X	X	X
+elapsed(s)=406 requests/s=16075 [error=0] cumulative requests/client=625421 [error=0] cumulative requests/s=15858
+16075	0		X	X	X
+elapsed(s)=407 requests/s=16158 [error=0] cumulative requests/client=627037 [error=0] cumulative requests/s=15873
+16158	0		X	X	X
+elapsed(s)=408 requests/s=15955 [error=0] cumulative requests/client=628632 [error=0] cumulative requests/s=15877
+15955	0		X	X	X
+elapsed(s)=409 requests/s=16077 [error=0] cumulative requests/client=630240 [error=0] cumulative requests/s=15887
+16077	0		X	X	X
+elapsed(s)=410 requests/s=16109 [error=0] cumulative requests/client=631851 [error=0] cumulative requests/s=15898
+16109	0		X	X	X
+elapsed(s)=411 requests/s=16031 [error=0] cumulative requests/client=633454 [error=0] cumulative requests/s=15904
+16031	0		X	X	X
+elapsed(s)=412 requests/s=15826 [error=0] cumulative requests/client=635036 [error=0] cumulative requests/s=15900
+15826	0		X	X	X
+elapsed(s)=413 requests/s=15915 [error=0] cumulative requests/client=636628 [error=0] cumulative requests/s=15900
+15915	0		X	X	X
+elapsed(s)=414 requests/s=15717 [error=0] cumulative requests/client=638200 [error=0] cumulative requests/s=15890
+15717	0		X	X	X
+elapsed(s)=415 requests/s=15490 [error=0] cumulative requests/client=639749 [error=0] cumulative requests/s=15870
+15490	0		X	X	X
+elapsed(s)=416 requests/s=16044 [error=0] cumulative requests/client=641353 [error=0] cumulative requests/s=15878
+16044	0		X	X	X
+elapsed(s)=417 requests/s=15910 [error=0] cumulative requests/client=642944 [error=0] cumulative requests/s=15879
+15910	0		X	X	X
+elapsed(s)=418 requests/s=16110 [error=0] cumulative requests/client=644555 [error=0] cumulative requests/s=15890
+16110	0		X	X	X
+elapsed(s)=419 requests/s=15998 [error=0] cumulative requests/client=646155 [error=0] cumulative requests/s=15895
+15998	0		X	X	X
+elapsed(s)=420 requests/s=15897 [error=0] cumulative requests/client=647745 [error=0] cumulative requests/s=15895
+15897	0		X	X	X
+elapsed(s)=421 requests/s=15888 [error=0] cumulative requests/client=649333 [error=0] cumulative requests/s=15894
+15888	0		X	X	X
+elapsed(s)=422 requests/s=15940 [error=0] cumulative requests/client=650927 [error=0] cumulative requests/s=15896
+15940	0		X	X	X
+elapsed(s)=423 requests/s=15966 [error=0] cumulative requests/client=652524 [error=0] cumulative requests/s=15899
+15966	0		X	X	X
+elapsed(s)=424 requests/s=15745 [error=0] cumulative requests/client=654098 [error=0] cumulative requests/s=15891
+15745	0		X	X	X
+elapsed(s)=425 requests/s=14994 [error=0] cumulative requests/client=655598 [error=0] cumulative requests/s=15846
+14994	0		X	X	X
+elapsed(s)=426 requests/s=15332 [error=0] cumulative requests/client=657131 [error=0] cumulative requests/s=15820
+15332	0		X	X	X
+elapsed(s)=427 requests/s=16137 [error=0] cumulative requests/client=658745 [error=0] cumulative requests/s=15835
+16137	0		X	X	X
+elapsed(s)=428 requests/s=15940 [error=0] cumulative requests/client=660339 [error=0] cumulative requests/s=15840
+15940	0		X	X	X
+elapsed(s)=429 requests/s=15537 [error=0] cumulative requests/client=661892 [error=0] cumulative requests/s=15824
+15537	0		X	X	X
+elapsed(s)=430 requests/s=14949 [error=0] cumulative requests/client=663387 [error=0] cumulative requests/s=15780
+14949	0		X	X	X
+elapsed(s)=431 requests/s=16107 [error=0] cumulative requests/client=664998 [error=0] cumulative requests/s=15796
+16107	0		X	X	X
+elapsed(s)=432 requests/s=15969 [error=0] cumulative requests/client=666595 [error=0] cumulative requests/s=15804
+15969	0		X	X	X
+elapsed(s)=433 requests/s=16089 [error=0] cumulative requests/client=668204 [error=0] cumulative requests/s=15818
+16089	0		X	X	X
+elapsed(s)=434 requests/s=16145 [error=0] cumulative requests/client=669818 [error=0] cumulative requests/s=15834
+16145	0		X	X	X
+elapsed(s)=435 requests/s=16057 [error=0] cumulative requests/client=671424 [error=0] cumulative requests/s=15845
+16057	0		X	X	X
+elapsed(s)=436 requests/s=15994 [error=0] cumulative requests/client=673023 [error=0] cumulative requests/s=15852
+15994	0		X	X	X
+elapsed(s)=437 requests/s=16123 [error=0] cumulative requests/client=674636 [error=0] cumulative requests/s=15865
+16123	0		X	X	X
+elapsed(s)=438 requests/s=16182 [error=0] cumulative requests/client=676254 [error=0] cumulative requests/s=15880
+16182	0		X	X	X
+elapsed(s)=439 requests/s=15862 [error=0] cumulative requests/client=677840 [error=0] cumulative requests/s=15879
+15862	0		X	X	X
+elapsed(s)=440 requests/s=15963 [error=0] cumulative requests/client=679436 [error=0] cumulative requests/s=15883
+15963	0		X	X	X
+elapsed(s)=441 requests/s=15284 [error=0] cumulative requests/client=680965 [error=0] cumulative requests/s=15853
+15284	0		X	X	X
+elapsed(s)=442 requests/s=15914 [error=0] cumulative requests/client=682556 [error=0] cumulative requests/s=15856
+15914	0		X	X	X
+elapsed(s)=443 requests/s=16158 [error=0] cumulative requests/client=684172 [error=0] cumulative requests/s=15871
+16158	0		X	X	X
+elapsed(s)=444 requests/s=16098 [error=0] cumulative requests/client=685782 [error=0] cumulative requests/s=15882
+16098	0		X	X	X
+elapsed(s)=445 requests/s=15992 [error=0] cumulative requests/client=687381 [error=0] cumulative requests/s=15887
+15992	0		X	X	X
+elapsed(s)=446 requests/s=15825 [error=0] cumulative requests/client=688964 [error=0] cumulative requests/s=15883
+15825	0		X	X	X
+elapsed(s)=447 requests/s=15900 [error=0] cumulative requests/client=690554 [error=0] cumulative requests/s=15883
+15900	0		X	X	X
+elapsed(s)=448 requests/s=15772 [error=0] cumulative requests/client=692131 [error=0] cumulative requests/s=15877
+15772	0		X	X	X
+elapsed(s)=449 requests/s=16209 [error=0] cumulative requests/client=693752 [error=0] cumulative requests/s=15893
+16209	0		X	X	X
+elapsed(s)=450 requests/s=16202 [error=0] cumulative requests/client=695372 [error=0] cumulative requests/s=15908
+16202	0		X	X	X
+elapsed(s)=451 requests/s=16145 [error=0] cumulative requests/client=696986 [error=0] cumulative requests/s=15919
+16145	0		X	X	X
+elapsed(s)=452 requests/s=16208 [error=0] cumulative requests/client=698607 [error=0] cumulative requests/s=15933
+16208	0		X	X	X
+elapsed(s)=453 requests/s=16069 [error=0] cumulative requests/client=700214 [error=0] cumulative requests/s=15939
+16069	0		X	X	X
+elapsed(s)=454 requests/s=16300 [error=0] cumulative requests/client=701844 [error=0] cumulative requests/s=15957
+16300	0		X	X	X
+elapsed(s)=455 requests/s=16249 [error=0] cumulative requests/client=703469 [error=0] cumulative requests/s=15971
+16249	0		X	X	X
+elapsed(s)=456 requests/s=15578 [error=0] cumulative requests/client=705027 [error=0] cumulative requests/s=15951
+15578	0		X	X	X
+elapsed(s)=457 requests/s=15921 [error=0] cumulative requests/client=706619 [error=0] cumulative requests/s=15949
+15921	0		X	X	X
+elapsed(s)=458 requests/s=16217 [error=0] cumulative requests/client=708241 [error=0] cumulative requests/s=15962
+16217	0		X	X	X
+elapsed(s)=459 requests/s=15459 [error=0] cumulative requests/client=709786 [error=0] cumulative requests/s=15936
+15459	0		X	X	X
+elapsed(s)=460 requests/s=15415 [error=0] cumulative requests/client=711328 [error=0] cumulative requests/s=15909
+15415	0		X	X	X
+elapsed(s)=461 requests/s=16092 [error=0] cumulative requests/client=712937 [error=0] cumulative requests/s=15918
+16092	0		X	X	X
+elapsed(s)=462 requests/s=16258 [error=0] cumulative requests/client=714563 [error=0] cumulative requests/s=15935
+16258	0		X	X	X
+elapsed(s)=463 requests/s=16100 [error=0] cumulative requests/client=716173 [error=0] cumulative requests/s=15943
+16100	0		X	X	X
+elapsed(s)=464 requests/s=16083 [error=0] cumulative requests/client=717781 [error=0] cumulative requests/s=15950
+16083	0		X	X	X
+elapsed(s)=465 requests/s=16029 [error=0] cumulative requests/client=719384 [error=0] cumulative requests/s=15953
+16029	0		X	X	X
+elapsed(s)=466 requests/s=16109 [error=0] cumulative requests/client=720995 [error=0] cumulative requests/s=15960
+16109	0		X	X	X
+elapsed(s)=467 requests/s=16220 [error=0] cumulative requests/client=722617 [error=0] cumulative requests/s=15973
+16220	0		X	X	X
+elapsed(s)=468 requests/s=16193 [error=0] cumulative requests/client=724236 [error=0] cumulative requests/s=15984
+16193	0		X	X	X
+elapsed(s)=469 requests/s=15733 [error=0] cumulative requests/client=725810 [error=0] cumulative requests/s=15971
+15733	0		X	X	X
+elapsed(s)=470 requests/s=15602 [error=0] cumulative requests/client=727370 [error=0] cumulative requests/s=15952
+15602	0		X	X	X
+elapsed(s)=471 requests/s=15991 [error=0] cumulative requests/client=728969 [error=0] cumulative requests/s=15953
+15991	0		X	X	X
+elapsed(s)=472 requests/s=16005 [error=0] cumulative requests/client=730569 [error=0] cumulative requests/s=15955
+16005	0		X	X	X
+elapsed(s)=473 requests/s=15948 [error=0] cumulative requests/client=732164 [error=0] cumulative requests/s=15954
+15948	0		X	X	X
+elapsed(s)=474 requests/s=16055 [error=0] cumulative requests/client=733770 [error=0] cumulative requests/s=15959
+16055	0		X	X	X
+elapsed(s)=475 requests/s=16054 [error=0] cumulative requests/client=735375 [error=0] cumulative requests/s=15963
+16054	0		X	X	X
+elapsed(s)=476 requests/s=15820 [error=0] cumulative requests/client=736957 [error=0] cumulative requests/s=15955
+15820	0		X	X	X
+elapsed(s)=477 requests/s=15254 [error=0] cumulative requests/client=738483 [error=0] cumulative requests/s=15919
+15254	0		X	X	X
+elapsed(s)=478 requests/s=16085 [error=0] cumulative requests/client=740091 [error=0] cumulative requests/s=15927
+16085	0		X	X	X
+elapsed(s)=479 requests/s=16148 [error=0] cumulative requests/client=741706 [error=0] cumulative requests/s=15938
+16148	0		X	X	X
+elapsed(s)=480 requests/s=15332 [error=0] cumulative requests/client=743239 [error=0] cumulative requests/s=15907
+15332	0		X	X	X
+elapsed(s)=481 requests/s=15351 [error=0] cumulative requests/client=744774 [error=0] cumulative requests/s=15879
+15351	0		X	X	X
+elapsed(s)=482 requests/s=15370 [error=0] cumulative requests/client=746311 [error=0] cumulative requests/s=15853
+15370	0		X	X	X
+elapsed(s)=483 requests/s=15294 [error=0] cumulative requests/client=747841 [error=0] cumulative requests/s=15825
+15294	0		X	X	X
+elapsed(s)=484 requests/s=15301 [error=0] cumulative requests/client=749371 [error=0] cumulative requests/s=15798
+15301	0		X	X	X
+elapsed(s)=485 requests/s=15209 [error=0] cumulative requests/client=750892 [error=0] cumulative requests/s=15768
+15209	0		X	X	X
+elapsed(s)=486 requests/s=14479 [error=0] cumulative requests/client=752339 [error=0] cumulative requests/s=15703
+14479	0		X	X	X
+elapsed(s)=487 requests/s=15265 [error=0] cumulative requests/client=753866 [error=0] cumulative requests/s=15681
+15265	0		X	X	X
+elapsed(s)=488 requests/s=15036 [error=0] cumulative requests/client=755370 [error=0] cumulative requests/s=15648
+15036	0		X	X	X
+elapsed(s)=489 requests/s=15449 [error=0] cumulative requests/client=756914 [error=0] cumulative requests/s=15638
+15449	0		X	X	X
+elapsed(s)=490 requests/s=15409 [error=0] cumulative requests/client=758455 [error=0] cumulative requests/s=15626
+15409	0		X	X	X
+elapsed(s)=491 requests/s=15064 [error=0] cumulative requests/client=759962 [error=0] cumulative requests/s=15597
+15064	0		X	X	X
+elapsed(s)=492 requests/s=14841 [error=0] cumulative requests/client=761446 [error=0] cumulative requests/s=15559
+14841	0		X	X	X
+elapsed(s)=493 requests/s=15089 [error=0] cumulative requests/client=762955 [error=0] cumulative requests/s=15535
+15089	0		X	X	X
+elapsed(s)=494 requests/s=15386 [error=0] cumulative requests/client=764493 [error=0] cumulative requests/s=15527
+15386	0		X	X	X
+elapsed(s)=495 requests/s=15347 [error=0] cumulative requests/client=766028 [error=0] cumulative requests/s=15518
+15347	0		X	X	X
+elapsed(s)=496 requests/s=15287 [error=0] cumulative requests/client=767557 [error=0] cumulative requests/s=15506
+15287	0		X	X	X
+elapsed(s)=497 requests/s=15576 [error=0] cumulative requests/client=769114 [error=0] cumulative requests/s=15509
+15576	0		X	X	X
+elapsed(s)=498 requests/s=15495 [error=0] cumulative requests/client=770664 [error=0] cumulative requests/s=15508
+15495	0		X	X	X
+elapsed(s)=499 requests/s=15462 [error=0] cumulative requests/client=772210 [error=0] cumulative requests/s=15505
+15462	0		X	X	X
+elapsed(s)=500 requests/s=14834 [error=0] cumulative requests/client=773693 [error=0] cumulative requests/s=15471
+14834	0		X	X	X
+elapsed(s)=501 requests/s=14724 [error=0] cumulative requests/client=775166 [error=0] cumulative requests/s=15433
+14724	0		X	X	X
+elapsed(s)=502 requests/s=15354 [error=0] cumulative requests/client=776701 [error=0] cumulative requests/s=15429
+15354	0		X	X	X
+elapsed(s)=503 requests/s=14722 [error=0] cumulative requests/client=778173 [error=0] cumulative requests/s=15393
+14722	0		X	X	X
+elapsed(s)=504 requests/s=14871 [error=0] cumulative requests/client=779661 [error=0] cumulative requests/s=15366
+14871	0		X	X	X
+elapsed(s)=505 requests/s=15268 [error=0] cumulative requests/client=781187 [error=0] cumulative requests/s=15361
+15268	0		X	X	X
+elapsed(s)=506 requests/s=15510 [error=0] cumulative requests/client=782738 [error=0] cumulative requests/s=15368
+15510	0		X	X	X
+elapsed(s)=507 requests/s=15465 [error=0] cumulative requests/client=784285 [error=0] cumulative requests/s=15372
+15465	0		X	X	X
+elapsed(s)=508 requests/s=15538 [error=0] cumulative requests/client=785839 [error=0] cumulative requests/s=15380
+15538	0		X	X	X
+elapsed(s)=509 requests/s=15382 [error=0] cumulative requests/client=787377 [error=0] cumulative requests/s=15380
+15382	0		X	X	X
+elapsed(s)=510 requests/s=15628 [error=0] cumulative requests/client=788940 [error=0] cumulative requests/s=15392
+15628	0		X	X	X
+elapsed(s)=511 requests/s=15448 [error=0] cumulative requests/client=790484 [error=0] cumulative requests/s=15394
+15448	0		X	X	X
+elapsed(s)=512 requests/s=15132 [error=0] cumulative requests/client=791998 [error=0] cumulative requests/s=15380
+15132	0		X	X	X
+elapsed(s)=513 requests/s=14703 [error=0] cumulative requests/client=793468 [error=0] cumulative requests/s=15346
+14703	0		X	X	X
+elapsed(s)=514 requests/s=13940 [error=0] cumulative requests/client=794862 [error=0] cumulative requests/s=15275
+13940	0		X	X	X
+elapsed(s)=515 requests/s=14977 [error=0] cumulative requests/client=796360 [error=0] cumulative requests/s=15260
+14977	0		X	X	X
+elapsed(s)=516 requests/s=14898 [error=0] cumulative requests/client=797849 [error=0] cumulative requests/s=15241
+14898	0		X	X	X
+elapsed(s)=517 requests/s=14385 [error=0] cumulative requests/client=799288 [error=0] cumulative requests/s=15198
+14385	0		X	X	X
+elapsed(s)=518 requests/s=15375 [error=0] cumulative requests/client=800825 [error=0] cumulative requests/s=15206
+15375	0		X	X	X
+elapsed(s)=519 requests/s=15471 [error=0] cumulative requests/client=802373 [error=0] cumulative requests/s=15219
+15471	0		X	X	X
+elapsed(s)=520 requests/s=15469 [error=0] cumulative requests/client=803919 [error=0] cumulative requests/s=15231
+15469	0		X	X	X
+elapsed(s)=521 requests/s=15446 [error=0] cumulative requests/client=805464 [error=0] cumulative requests/s=15241
+15446	0		X	X	X
+elapsed(s)=522 requests/s=15613 [error=0] cumulative requests/client=807025 [error=0] cumulative requests/s=15259
+15613	0		X	X	X
+elapsed(s)=523 requests/s=15538 [error=0] cumulative requests/client=808579 [error=0] cumulative requests/s=15272
+15538	0		X	X	X
+elapsed(s)=524 requests/s=15574 [error=0] cumulative requests/client=810137 [error=0] cumulative requests/s=15287
+15574	0		X	X	X
+elapsed(s)=525 requests/s=15593 [error=0] cumulative requests/client=811696 [error=0] cumulative requests/s=15302
+15593	0		X	X	X
+elapsed(s)=526 requests/s=15570 [error=0] cumulative requests/client=813253 [error=0] cumulative requests/s=15315
+15570	0		X	X	X
+elapsed(s)=527 requests/s=15631 [error=0] cumulative requests/client=814816 [error=0] cumulative requests/s=15330
+15631	0		X	X	X
+elapsed(s)=528 requests/s=15542 [error=0] cumulative requests/client=816370 [error=0] cumulative requests/s=15340
+15542	0		X	X	X
+elapsed(s)=529 requests/s=15478 [error=0] cumulative requests/client=817918 [error=0] cumulative requests/s=15346
+15478	0		X	X	X
+elapsed(s)=530 requests/s=15616 [error=0] cumulative requests/client=819480 [error=0] cumulative requests/s=15359
+15616	0		X	X	X
+elapsed(s)=531 requests/s=15471 [error=0] cumulative requests/client=821027 [error=0] cumulative requests/s=15364
+15471	0		X	X	X
+elapsed(s)=532 requests/s=15480 [error=0] cumulative requests/client=822575 [error=0] cumulative requests/s=15369
+15480	0		X	X	X
+elapsed(s)=533 requests/s=15680 [error=0] cumulative requests/client=824143 [error=0] cumulative requests/s=15384
+15680	0		X	X	X
+elapsed(s)=534 requests/s=15695 [error=0] cumulative requests/client=825712 [error=0] cumulative requests/s=15399
+15695	0		X	X	X
+elapsed(s)=535 requests/s=15593 [error=0] cumulative requests/client=827271 [error=0] cumulative requests/s=15408
+15593	0		X	X	X
+elapsed(s)=536 requests/s=15453 [error=0] cumulative requests/client=828817 [error=0] cumulative requests/s=15410
+15453	0		X	X	X
+elapsed(s)=537 requests/s=15412 [error=0] cumulative requests/client=830358 [error=0] cumulative requests/s=15410
+15412	0		X	X	X
+elapsed(s)=538 requests/s=15079 [error=0] cumulative requests/client=831866 [error=0] cumulative requests/s=15393
+15079	0		X	X	X
+elapsed(s)=539 requests/s=15393 [error=0] cumulative requests/client=833405 [error=0] cumulative requests/s=15393
+15393	0		X	X	X
+elapsed(s)=540 requests/s=15335 [error=0] cumulative requests/client=834939 [error=0] cumulative requests/s=15390
+15335	0		X	X	X
+elapsed(s)=541 requests/s=15475 [error=0] cumulative requests/client=836486 [error=0] cumulative requests/s=15394
+15475	0		X	X	X
+elapsed(s)=542 requests/s=15420 [error=0] cumulative requests/client=838028 [error=0] cumulative requests/s=15395
+15420	0		X	X	X
+elapsed(s)=543 requests/s=15454 [error=0] cumulative requests/client=839574 [error=0] cumulative requests/s=15397
+15454	0		X	X	X
+elapsed(s)=544 requests/s=15443 [error=0] cumulative requests/client=841118 [error=0] cumulative requests/s=15399
+15443	0		X	X	X
+elapsed(s)=545 requests/s=15321 [error=0] cumulative requests/client=842650 [error=0] cumulative requests/s=15395
+15321	0		X	X	X
+elapsed(s)=546 requests/s=15063 [error=0] cumulative requests/client=844156 [error=0] cumulative requests/s=15378
+15063	0		X	X	X
+elapsed(s)=547 requests/s=14679 [error=0] cumulative requests/client=845624 [error=0] cumulative requests/s=15343
+14679	0		X	X	X
+elapsed(s)=548 requests/s=15341 [error=0] cumulative requests/client=847158 [error=0] cumulative requests/s=15342
+15341	0		X	X	X
+elapsed(s)=549 requests/s=15510 [error=0] cumulative requests/client=848709 [error=0] cumulative requests/s=15350
+15510	0		X	X	X
+elapsed(s)=550 requests/s=15397 [error=0] cumulative requests/client=850249 [error=0] cumulative requests/s=15352
+15397	0		X	X	X
+elapsed(s)=551 requests/s=15653 [error=0] cumulative requests/client=851814 [error=0] cumulative requests/s=15367
+15653	0		X	X	X
+elapsed(s)=552 requests/s=15463 [error=0] cumulative requests/client=853361 [error=0] cumulative requests/s=15371
+15463	0		X	X	X
+elapsed(s)=553 requests/s=15410 [error=0] cumulative requests/client=854902 [error=0] cumulative requests/s=15372
+15410	0		X	X	X
+elapsed(s)=554 requests/s=15370 [error=0] cumulative requests/client=856439 [error=0] cumulative requests/s=15371
+15370	0		X	X	X
+elapsed(s)=555 requests/s=15443 [error=0] cumulative requests/client=857983 [error=0] cumulative requests/s=15374
+15443	0		X	X	X
+elapsed(s)=556 requests/s=15506 [error=0] cumulative requests/client=859533 [error=0] cumulative requests/s=15380
+15506	0		X	X	X
+elapsed(s)=557 requests/s=15557 [error=0] cumulative requests/client=861089 [error=0] cumulative requests/s=15388
+15557	0		X	X	X
+elapsed(s)=558 requests/s=15494 [error=0] cumulative requests/client=862639 [error=0] cumulative requests/s=15393
+15494	0		X	X	X
+elapsed(s)=559 requests/s=15438 [error=0] cumulative requests/client=864182 [error=0] cumulative requests/s=15395
+15438	0		X	X	X
+elapsed(s)=560 requests/s=15401 [error=0] cumulative requests/client=865722 [error=0] cumulative requests/s=15395
+15401	0		X	X	X
+elapsed(s)=561 requests/s=15622 [error=0] cumulative requests/client=867285 [error=0] cumulative requests/s=15406
+15622	0		X	X	X
+elapsed(s)=562 requests/s=15552 [error=0] cumulative requests/client=868840 [error=0] cumulative requests/s=15413
+15552	0		X	X	X
+elapsed(s)=563 requests/s=15334 [error=0] cumulative requests/client=870373 [error=0] cumulative requests/s=15409
+15334	0		X	X	X
+elapsed(s)=564 requests/s=14482 [error=0] cumulative requests/client=871821 [error=0] cumulative requests/s=15362
+14482	0		X	X	X
+elapsed(s)=565 requests/s=15468 [error=0] cumulative requests/client=873368 [error=0] cumulative requests/s=15367
+15468	0		X	X	X
+elapsed(s)=566 requests/s=15424 [error=0] cumulative requests/client=874911 [error=0] cumulative requests/s=15369
+15424	0		X	X	X
+elapsed(s)=567 requests/s=15397 [error=0] cumulative requests/client=876450 [error=0] cumulative requests/s=15370
+15397	0		X	X	X
+elapsed(s)=568 requests/s=15510 [error=0] cumulative requests/client=878001 [error=0] cumulative requests/s=15377
+15510	0		X	X	X
+elapsed(s)=569 requests/s=15496 [error=0] cumulative requests/client=879551 [error=0] cumulative requests/s=15382
+15496	0		X	X	X
+elapsed(s)=570 requests/s=15552 [error=0] cumulative requests/client=881106 [error=0] cumulative requests/s=15390
+15552	0		X	X	X
+elapsed(s)=571 requests/s=15577 [error=0] cumulative requests/client=882664 [error=0] cumulative requests/s=15399
+15577	0		X	X	X
+elapsed(s)=572 requests/s=15563 [error=0] cumulative requests/client=884220 [error=0] cumulative requests/s=15407
+15563	0		X	X	X
+elapsed(s)=573 requests/s=15088 [error=0] cumulative requests/client=885729 [error=0] cumulative requests/s=15391
+15088	0		X	X	X
+elapsed(s)=574 requests/s=15586 [error=0] cumulative requests/client=887288 [error=0] cumulative requests/s=15400
+15586	0		X	X	X
+elapsed(s)=575 requests/s=15100 [error=0] cumulative requests/client=888798 [error=0] cumulative requests/s=15385
+15100	0		X	X	X
+elapsed(s)=576 requests/s=15326 [error=0] cumulative requests/client=890330 [error=0] cumulative requests/s=15382
+15326	0		X	X	X
+elapsed(s)=577 requests/s=15073 [error=0] cumulative requests/client=891837 [error=0] cumulative requests/s=15366
+15073	0		X	X	X
+elapsed(s)=578 requests/s=15511 [error=0] cumulative requests/client=893389 [error=0] cumulative requests/s=15373
+15511	0		X	X	X
+elapsed(s)=579 requests/s=15242 [error=0] cumulative requests/client=894913 [error=0] cumulative requests/s=15366
+15242	0		X	X	X
+elapsed(s)=580 requests/s=15605 [error=0] cumulative requests/client=896473 [error=0] cumulative requests/s=15377
+15605	0		X	X	X
+elapsed(s)=581 requests/s=15271 [error=0] cumulative requests/client=898000 [error=0] cumulative requests/s=15371
+15271	0		X	X	X
+elapsed(s)=582 requests/s=14322 [error=0] cumulative requests/client=899433 [error=0] cumulative requests/s=15318
+14322	0		X	X	X
+elapsed(s)=583 requests/s=15128 [error=0] cumulative requests/client=900945 [error=0] cumulative requests/s=15308
+15128	0		X	X	X
+elapsed(s)=584 requests/s=15356 [error=0] cumulative requests/client=902481 [error=0] cumulative requests/s=15310
+15356	0		X	X	X
+elapsed(s)=585 requests/s=15506 [error=0] cumulative requests/client=904032 [error=0] cumulative requests/s=15319
+15506	0		X	X	X
+elapsed(s)=586 requests/s=15288 [error=0] cumulative requests/client=905560 [error=0] cumulative requests/s=15317
+15288	0		X	X	X
+elapsed(s)=587 requests/s=15502 [error=0] cumulative requests/client=907111 [error=0] cumulative requests/s=15326
+15502	0		X	X	X
+elapsed(s)=588 requests/s=15362 [error=0] cumulative requests/client=908647 [error=0] cumulative requests/s=15327
+15362	0		X	X	X
+elapsed(s)=589 requests/s=15236 [error=0] cumulative requests/client=910170 [error=0] cumulative requests/s=15322
+15236	0		X	X	X
+elapsed(s)=590 requests/s=15068 [error=0] cumulative requests/client=911677 [error=0] cumulative requests/s=15309
+15068	0		X	X	X
+elapsed(s)=591 requests/s=15420 [error=0] cumulative requests/client=913219 [error=0] cumulative requests/s=15314
+15420	0		X	X	X
+elapsed(s)=592 requests/s=15590 [error=0] cumulative requests/client=914778 [error=0] cumulative requests/s=15327
+15590	0		X	X	X
+elapsed(s)=593 requests/s=15285 [error=0] cumulative requests/client=916307 [error=0] cumulative requests/s=15324
+15285	0		X	X	X
+elapsed(s)=594 requests/s=15417 [error=0] cumulative requests/client=917848 [error=0] cumulative requests/s=15328
+15417	0		X	X	X
+elapsed(s)=595 requests/s=15444 [error=0] cumulative requests/client=919393 [error=0] cumulative requests/s=15333
+15444	0		X	X	X
+elapsed(s)=596 requests/s=15319 [error=0] cumulative requests/client=920925 [error=0] cumulative requests/s=15332
+15319	0		X	X	X
+elapsed(s)=597 requests/s=15012 [error=0] cumulative requests/client=922426 [error=0] cumulative requests/s=15316
+15012	0		X	X	X
+elapsed(s)=598 requests/s=14837 [error=0] cumulative requests/client=923910 [error=0] cumulative requests/s=15292
+14837	0		X	X	X
+elapsed(s)=599 requests/s=14699 [error=0] cumulative requests/client=925379 [error=0] cumulative requests/s=15262
+14699	0		X	X	X
+elapsed(s)=600 requests/s=14571 [error=0] cumulative requests/client=926837 [error=0] cumulative requests/s=15227
+14571	0		X	X	X
+Ran tests long enough. Stopping clients...
+elapsed(s)=601 requests/s=15339 [error=0] cumulative requests/client=928370 [error=0] cumulative requests/s=15232
+Client stopped. id=6
+Client stopped. id=5
+Client stopped. id=9
+Client stopped. id=1
+Client stopped. id=2
+15339	0		X	X	X
+Client stopped. id=3
+Client stopped. id=7
+Client stopped. id=0
+Client stopped. id=4
+Client stopped. id=8
+All clients have stopped.
+elapsed(s)=602 requests/s=0 [error=0] cumulative requests/client=928370 [error=0] cumulative requests/s=14470
+0	0		X	X	X
+Tests finished.

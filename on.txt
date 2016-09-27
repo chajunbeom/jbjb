@@ -1,0 +1,320 @@
+Jar directory: /home/ckwnsqja/Hotitems/misc/arcus-misc/acp-java/../../arcus-java-client/target
+single_server=localhost:11900
+client=10
+request=0
+time=60
+keyset_size=100000
+valueset_min_size=100
+valueset_max_size=100
+client_profile=simple_getset
+pool=1
+pool_size=10
+pool_use_random=false
+2016-09-27 11:52:04,048 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 11:52:04,057 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@165ef3ae
+2016-09-27 11:52:04,057 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 11:52:04,058 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 11:52:04,059 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 11:52:04,059 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@22d215
+2016-09-27 11:52:04,059 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 11:52:04,060 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 11:52:04,060 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@fc77f54
+2016-09-27 11:52:04,060 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 11:52:04,061 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 11:52:04,061 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@7a9fa239
+2016-09-27 11:52:04,061 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 11:52:04,062 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 11:52:04,062 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@65b57dcc
+2016-09-27 11:52:04,062 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 11:52:04,063 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 11:52:04,064 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@5d52a1b7
+2016-09-27 11:52:04,064 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 11:52:04,064 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 11:52:04,065 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@2006eb91
+2016-09-27 11:52:04,065 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 11:52:04,065 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 11:52:04,066 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@28fd3fba
+2016-09-27 11:52:04,066 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 11:52:04,067 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 11:52:04,067 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@526abde0
+2016-09-27 11:52:04,067 - INFO  [main:?@?] - new memcached node added {QA sa=localhost/127.0.0.1:11900, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2016-09-27 11:52:04,068 - INFO  [main:?@?] - Arcus client statistics MBean is NOT registered.
+2016-09-27 11:52:04,068 - INFO  [Memcached IO over {MemcachedConnection to localhost/127.0.0.1:11900}:?@?] - Connection state changed for sun.nio.ch.SelectionKeyImpl@d73c52f
+New client. id=0 pool=0 arcus_client=0
+New client. id=1 pool=0 arcus_client=1
+New client. id=2 pool=0 arcus_client=2
+New client. id=3 pool=0 arcus_client=3
+New client. id=4 pool=0 arcus_client=4
+New client. id=5 pool=0 arcus_client=5
+New client. id=6 pool=0 arcus_client=6
+New client. id=7 pool=0 arcus_client=7
+New client. id=8 pool=0 arcus_client=8
+New client. id=9 pool=0 arcus_client=9
+Starting clients...
+Client is running. id=0
+Client is running. id=1
+Client is running. id=2
+Client is running. id=3
+Client is running. id=4
+Client is running. id=5
+Client is running. id=6
+Client is running. id=7
+Client is running. id=8
+Client is running. id=9
+elapsed(s)=1 requests/s=3395 [error=0] cumulative requests/client=339 [error=0] cumulative requests/s=169
+per-client requests. min=322 median=332 avg=339 max=364
+latency (usec). requests=3385 min=352 10th=452 50th=538 80th=1560 90th=15692 99th=22098 max=39655
+3395	0		X	X	X
+elapsed(s)=2 requests/s=3250 [error=0] cumulative requests/client=664 [error=0] cumulative requests/s=323
+per-client requests. min=301 median=326 avg=325 max=348
+latency (usec). requests=3250 min=353 10th=441 50th=540 80th=3103 90th=13152 99th=21012 max=50607
+3250	0		X	X	X
+elapsed(s)=3 requests/s=3206 [error=0] cumulative requests/client=985 [error=0] cumulative requests/s=467
+per-client requests. min=300 median=319 avg=320 max=340
+latency (usec). requests=3206 min=369 10th=458 50th=541 80th=664 90th=17239 99th=21628 max=35927
+3206	0		X	X	X
+elapsed(s)=4 requests/s=4097 [error=0] cumulative requests/client=1394 [error=0] cumulative requests/s=648
+per-client requests. min=384 median=412 avg=409 max=433
+latency (usec). requests=4097 min=273 10th=354 50th=443 80th=899 90th=9812 99th=21193 max=30932
+4097	0		X	X	X
+elapsed(s)=5 requests/s=5254 [error=0] cumulative requests/client=1920 [error=0] cumulative requests/s=878
+per-client requests. min=503 median=530 avg=525 max=553
+latency (usec). requests=5254 min=240 10th=281 50th=333 80th=402 90th=2806 99th=21859 max=34626
+5254	0		X	X	X
+elapsed(s)=6 requests/s=6731 [error=0] cumulative requests/client=2593 [error=0] cumulative requests/s=1170
+per-client requests. min=627 median=657 avg=673 max=748
+latency (usec). requests=6731 min=185 10th=224 50th=276 80th=595 90th=2292 99th=23559 max=33632
+6731	0		X	X	X
+elapsed(s)=7 requests/s=8657 [error=0] cumulative requests/client=3459 [error=0] cumulative requests/s=1544
+per-client requests. min=749 median=778 avg=865 max=1069
+latency (usec). requests=8657 min=150 10th=184 50th=549 80th=938 90th=2792 99th=17957 max=36823
+8657	0		X	X	X
+elapsed(s)=8 requests/s=10017 [error=0] cumulative requests/client=4460 [error=0] cumulative requests/s=1967
+per-client requests. min=871 median=924 avg=1001 max=1200
+latency (usec). requests=10017 min=134 10th=166 50th=494 80th=609 90th=1259 99th=13453 max=32814
+10017	0		X	X	X
+elapsed(s)=9 requests/s=11266 [error=0] cumulative requests/client=5587 [error=0] cumulative requests/s=2431
+per-client requests. min=957 median=977 avg=1126 max=1405
+latency (usec). requests=11266 min=130 10th=293 50th=520 80th=932 90th=1168 99th=10142 max=27719
+11266	0		X	X	X
+elapsed(s)=10 requests/s=11454 [error=0] cumulative requests/client=6732 [error=0] cumulative requests/s=2882
+per-client requests. min=857 median=949 avg=1145 max=1621
+latency (usec). requests=11454 min=116 10th=311 50th=731 80th=1069 90th=1338 99th=5117 max=19370
+11454	0		X	X	X
+elapsed(s)=11 requests/s=14102 [error=0] cumulative requests/client=8142 [error=0] cumulative requests/s=3443
+per-client requests. min=1172 median=1188 avg=1410 max=1774
+latency (usec). requests=14102 min=180 10th=496 50th=693 80th=847 90th=936 99th=1264 max=5657
+14102	0		X	X	X
+elapsed(s)=12 requests/s=14166 [error=0] cumulative requests/client=9559 [error=0] cumulative requests/s=3979
+per-client requests. min=1183 median=1198 avg=1416 max=1758
+latency (usec). requests=14166 min=181 10th=503 50th=698 80th=847 90th=929 99th=1183 max=4342
+14166	0		X	X	X
+elapsed(s)=13 requests/s=14197 [error=0] cumulative requests/client=10979 [error=0] cumulative requests/s=4489
+per-client requests. min=1185 median=1194 avg=1419 max=1773
+latency (usec). requests=14197 min=235 10th=499 50th=693 80th=844 90th=929 99th=1178 max=4914
+14197	0		X	X	X
+elapsed(s)=14 requests/s=14041 [error=0] cumulative requests/client=12383 [error=0] cumulative requests/s=4966
+per-client requests. min=1167 median=1179 avg=1404 max=1757
+latency (usec). requests=14041 min=232 10th=505 50th=701 80th=859 90th=947 99th=1171 max=4740
+14041	0		X	X	X
+elapsed(s)=15 requests/s=13878 [error=0] cumulative requests/client=13771 [error=0] cumulative requests/s=5411
+per-client requests. min=1154 median=1181 avg=1387 max=1723
+latency (usec). requests=13878 min=236 10th=509 50th=707 80th=864 90th=947 99th=1175 max=7005
+13878	0		X	X	X
+elapsed(s)=16 requests/s=12306 [error=0] cumulative requests/client=15001 [error=0] cumulative requests/s=5755
+per-client requests. min=962 median=1016 avg=1230 max=1668
+latency (usec). requests=12306 min=129 10th=399 50th=706 80th=978 90th=1081 99th=3424 max=27983
+12306	0		X	X	X
+elapsed(s)=17 requests/s=14809 [error=0] cumulative requests/client=16482 [error=0] cumulative requests/s=6207
+per-client requests. min=1215 median=1248 avg=1480 max=1896
+latency (usec). requests=14809 min=124 10th=460 50th=661 80th=816 90th=901 99th=1141 max=6939
+14809	0		X	X	X
+elapsed(s)=18 requests/s=14874 [error=0] cumulative requests/client=17970 [error=0] cumulative requests/s=6640
+per-client requests. min=1189 median=1285 avg=1487 max=1882
+latency (usec). requests=14874 min=169 10th=469 50th=656 80th=812 90th=896 99th=1157 max=5484
+14874	0		X	X	X
+elapsed(s)=19 requests/s=14791 [error=0] cumulative requests/client=19449 [error=0] cumulative requests/s=7047
+per-client requests. min=1184 median=1298 avg=1479 max=1902
+latency (usec). requests=14791 min=234 10th=477 50th=663 80th=816 90th=891 99th=1122 max=4778
+14791	0		X	X	X
+elapsed(s)=20 requests/s=14437 [error=0] cumulative requests/client=20892 [error=0] cumulative requests/s=7416
+per-client requests. min=1244 median=1264 avg=1443 max=1761
+latency (usec). requests=14437 min=170 10th=497 50th=684 80th=816 90th=886 99th=1115 max=6924
+14437	0		X	X	X
+elapsed(s)=21 requests/s=14261 [error=0] cumulative requests/client=22318 [error=0] cumulative requests/s=7758
+per-client requests. min=1154 median=1285 avg=1426 max=1856
+latency (usec). requests=14261 min=153 10th=477 50th=699 80th=854 90th=916 99th=1204 max=4207
+14261	0		X	X	X
+elapsed(s)=22 requests/s=14251 [error=0] cumulative requests/client=23744 [error=0] cumulative requests/s=8082
+per-client requests. min=1180 median=1197 avg=1425 max=1799
+latency (usec). requests=14251 min=124 10th=492 50th=699 80th=853 90th=920 99th=1170 max=4532
+14251	0		X	X	X
+elapsed(s)=23 requests/s=14601 [error=0] cumulative requests/client=25204 [error=0] cumulative requests/s=8407
+per-client requests. min=1193 median=1247 avg=1460 max=1874
+latency (usec). requests=14601 min=120 10th=486 50th=680 80th=836 90th=890 99th=1115 max=4962
+14601	0		X	X	X
+elapsed(s)=24 requests/s=14679 [error=0] cumulative requests/client=26672 [error=0] cumulative requests/s=8720
+per-client requests. min=1188 median=1221 avg=1467 max=1909
+latency (usec). requests=14679 min=113 10th=480 50th=678 80th=836 90th=887 99th=1128 max=5034
+14679	0		X	X	X
+elapsed(s)=25 requests/s=14631 [error=0] cumulative requests/client=28135 [error=0] cumulative requests/s=9015
+per-client requests. min=1180 median=1214 avg=1463 max=1876
+latency (usec). requests=14631 min=219 10th=482 50th=674 80th=838 90th=905 99th=1121 max=4923
+14631	0		X	X	X
+elapsed(s)=26 requests/s=14517 [error=0] cumulative requests/client=29586 [error=0] cumulative requests/s=9290
+per-client requests. min=1179 median=1248 avg=1451 max=1851
+latency (usec). requests=14517 min=236 10th=490 50th=680 80th=833 90th=891 99th=1129 max=4770
+14517	0		X	X	X
+elapsed(s)=27 requests/s=14661 [error=0] cumulative requests/client=31052 [error=0] cumulative requests/s=9558
+per-client requests. min=1213 median=1240 avg=1466 max=1835
+latency (usec). requests=14661 min=125 10th=480 50th=649 80th=796 90th=869 99th=1092 max=28318
+14661	0		X	X	X
+elapsed(s)=28 requests/s=15521 [error=0] cumulative requests/client=32605 [error=0] cumulative requests/s=9856
+per-client requests. min=1258 median=1316 avg=1552 max=1970
+latency (usec). requests=15521 min=111 10th=422 50th=629 80th=778 90th=864 99th=1126 max=4352
+15521	0		X	X	X
+elapsed(s)=29 requests/s=14805 [error=0] cumulative requests/client=34085 [error=0] cumulative requests/s=10103
+per-client requests. min=1170 median=1253 avg=1480 max=1926
+latency (usec). requests=14805 min=156 10th=470 50th=658 80th=827 90th=893 99th=1162 max=5400
+14805	0		X	X	X
+elapsed(s)=30 requests/s=14668 [error=0] cumulative requests/client=35552 [error=0] cumulative requests/s=10331
+per-client requests. min=1162 median=1223 avg=1466 max=1939
+latency (usec). requests=14668 min=192 10th=465 50th=666 80th=839 90th=922 99th=1174 max=5404
+14668	0		X	X	X
+elapsed(s)=31 requests/s=14797 [error=0] cumulative requests/client=37032 [error=0] cumulative requests/s=10554
+per-client requests. min=1153 median=1332 avg=1479 max=1968
+latency (usec). requests=14797 min=119 10th=476 50th=668 80th=831 90th=879 99th=1113 max=5520
+14797	0		X	X	X
+elapsed(s)=32 requests/s=15634 [error=0] cumulative requests/client=38595 [error=0] cumulative requests/s=10808
+per-client requests. min=1225 median=1281 avg=1563 max=2068
+latency (usec). requests=15634 min=221 10th=465 50th=650 80th=842 90th=921 99th=1165 max=3935
+15634	0		X	X	X
+elapsed(s)=33 requests/s=14739 [error=0] cumulative requests/client=40069 [error=0] cumulative requests/s=11004
+per-client requests. min=1164 median=1167 avg=1473 max=1941
+latency (usec). requests=14739 min=230 10th=469 50th=654 80th=843 90th=940 99th=1168 max=4604
+14739	0		X	X	X
+elapsed(s)=34 requests/s=14208 [error=0] cumulative requests/client=41490 [error=0] cumulative requests/s=11164
+per-client requests. min=1159 median=1216 avg=1420 max=1861
+latency (usec). requests=14208 min=120 10th=489 50th=692 80th=849 90th=928 99th=1249 max=4414
+14208	0		X	X	X
+elapsed(s)=35 requests/s=14421 [error=0] cumulative requests/client=42932 [error=0] cumulative requests/s=11326
+per-client requests. min=1168 median=1216 avg=1442 max=1863
+latency (usec). requests=14421 min=225 10th=481 50th=678 80th=834 90th=913 99th=1255 max=7011
+14421	0		X	X	X
+elapsed(s)=36 requests/s=14791 [error=0] cumulative requests/client=44411 [error=0] cumulative requests/s=11499
+per-client requests. min=1180 median=1243 avg=1479 max=1937
+latency (usec). requests=14791 min=158 10th=472 50th=664 80th=826 90th=897 99th=1151 max=4735
+14791	0		X	X	X
+elapsed(s)=37 requests/s=14798 [error=0] cumulative requests/client=45891 [error=0] cumulative requests/s=11663
+per-client requests. min=1180 median=1299 avg=1479 max=1940
+latency (usec). requests=14798 min=228 10th=476 50th=669 80th=821 90th=882 99th=1131 max=3863
+14798	0		X	X	X
+elapsed(s)=38 requests/s=14621 [error=0] cumulative requests/client=47353 [error=0] cumulative requests/s=11810
+per-client requests. min=1166 median=1288 avg=1462 max=1864
+latency (usec). requests=14621 min=153 10th=482 50th=675 80th=825 90th=894 99th=1126 max=4512
+14621	0		X	X	X
+elapsed(s)=39 requests/s=15331 [error=0] cumulative requests/client=48886 [error=0] cumulative requests/s=11986
+per-client requests. min=1281 median=1293 avg=1533 max=1913
+latency (usec). requests=15331 min=114 10th=472 50th=633 80th=767 90th=849 99th=1081 max=15320
+15331	0		X	X	X
+elapsed(s)=40 requests/s=15666 [error=0] cumulative requests/client=50452 [error=0] cumulative requests/s=12170
+per-client requests. min=1303 median=1321 avg=1566 max=1951
+latency (usec). requests=15666 min=219 10th=470 50th=626 80th=757 90th=844 99th=1036 max=4086
+15666	0		X	X	X
+elapsed(s)=41 requests/s=15585 [error=0] cumulative requests/client=52011 [error=0] cumulative requests/s=12340
+per-client requests. min=1300 median=1308 avg=1558 max=1944
+latency (usec). requests=15585 min=224 10th=467 50th=629 80th=760 90th=851 99th=1063 max=4208
+15585	0		X	X	X
+elapsed(s)=42 requests/s=15135 [error=0] cumulative requests/client=53524 [error=0] cumulative requests/s=12479
+per-client requests. min=1278 median=1296 avg=1513 max=1861
+latency (usec). requests=15135 min=163 10th=474 50th=650 80th=773 90th=860 99th=1057 max=4446
+15135	0		X	X	X
+elapsed(s)=43 requests/s=15614 [error=0] cumulative requests/client=55086 [error=0] cumulative requests/s=12635
+per-client requests. min=1287 median=1321 avg=1561 max=1958
+latency (usec). requests=15614 min=109 10th=471 50th=629 80th=766 90th=845 99th=1040 max=4213
+15614	0		X	X	X
+elapsed(s)=44 requests/s=15667 [error=0] cumulative requests/client=56653 [error=0] cumulative requests/s=12786
+per-client requests. min=1298 median=1312 avg=1566 max=1973
+latency (usec). requests=15667 min=131 10th=466 50th=628 80th=769 90th=850 99th=1037 max=4099
+15667	0		X	X	X
+elapsed(s)=45 requests/s=15432 [error=0] cumulative requests/client=58196 [error=0] cumulative requests/s=12918
+per-client requests. min=1277 median=1279 avg=1543 max=1944
+latency (usec). requests=15432 min=122 10th=471 50th=635 80th=791 90th=860 99th=1044 max=4442
+15432	0		X	X	X
+elapsed(s)=46 requests/s=15678 [error=0] cumulative requests/client=59764 [error=0] cumulative requests/s=13056
+per-client requests. min=1296 median=1298 avg=1567 max=1977
+latency (usec). requests=15678 min=169 10th=470 50th=626 80th=773 90th=854 99th=1034 max=4132
+15678	0		X	X	X
+elapsed(s)=47 requests/s=15505 [error=0] cumulative requests/client=61314 [error=0] cumulative requests/s=13178
+per-client requests. min=1282 median=1311 avg=1550 max=1949
+latency (usec). requests=15505 min=226 10th=472 50th=633 80th=769 90th=849 99th=1061 max=4252
+15505	0		X	X	X
+elapsed(s)=48 requests/s=15748 [error=0] cumulative requests/client=62889 [error=0] cumulative requests/s=13306
+per-client requests. min=1307 median=1313 avg=1574 max=1973
+latency (usec). requests=15748 min=225 10th=470 50th=625 80th=762 90th=839 99th=1026 max=4151
+15748	0		X	X	X
+elapsed(s)=49 requests/s=15642 [error=0] cumulative requests/client=64453 [error=0] cumulative requests/s=13422
+per-client requests. min=1297 median=1319 avg=1564 max=1969
+latency (usec). requests=15642 min=226 10th=472 50th=629 80th=768 90th=840 99th=1031 max=3892
+15642	0		X	X	X
+elapsed(s)=50 requests/s=15074 [error=0] cumulative requests/client=65960 [error=0] cumulative requests/s=13504
+per-client requests. min=1220 median=1290 avg=1507 max=1900
+latency (usec). requests=15074 min=113 10th=428 50th=643 80th=791 90th=873 99th=1095 max=28959
+15074	0		X	X	X
+elapsed(s)=51 requests/s=15273 [error=0] cumulative requests/client=67488 [error=0] cumulative requests/s=13592
+per-client requests. min=1216 median=1254 avg=1527 max=2010
+latency (usec). requests=15273 min=127 10th=426 50th=630 80th=832 90th=886 99th=1141 max=4176
+15273	0		X	X	X
+elapsed(s)=52 requests/s=14760 [error=0] cumulative requests/client=68964 [error=0] cumulative requests/s=13650
+per-client requests. min=1165 median=1235 avg=1476 max=1946
+latency (usec). requests=14760 min=216 10th=470 50th=653 80th=852 90th=904 99th=1156 max=4969
+14760	0		X	X	X
+elapsed(s)=53 requests/s=15600 [error=0] cumulative requests/client=70524 [error=0] cumulative requests/s=13747
+per-client requests. min=1287 median=1313 avg=1560 max=1968
+latency (usec). requests=15600 min=152 10th=466 50th=632 80th=766 90th=849 99th=1051 max=4653
+15600	0		X	X	X
+elapsed(s)=54 requests/s=15415 [error=0] cumulative requests/client=72065 [error=0] cumulative requests/s=13830
+per-client requests. min=1283 median=1288 avg=1541 max=1934
+latency (usec). requests=15415 min=120 10th=466 50th=637 80th=777 90th=861 99th=1124 max=11407
+15415	0		X	X	X
+elapsed(s)=55 requests/s=15034 [error=0] cumulative requests/client=73569 [error=0] cumulative requests/s=13890
+per-client requests. min=1206 median=1310 avg=1503 max=1945
+latency (usec). requests=15034 min=164 10th=458 50th=657 80th=812 90th=872 99th=1072 max=4337
+15034	0		X	X	X
+elapsed(s)=56 requests/s=15053 [error=0] cumulative requests/client=75074 [error=0] cumulative requests/s=13948
+per-client requests. min=1193 median=1208 avg=1505 max=2089
+latency (usec). requests=15053 min=105 10th=355 50th=634 80th=787 90th=912 99th=1564 max=12333
+15053	0		X	X	X
+elapsed(s)=57 requests/s=15544 [error=0] cumulative requests/client=76628 [error=0] cumulative requests/s=14027
+per-client requests. min=1306 median=1311 avg=1554 max=1928
+latency (usec). requests=15544 min=225 10th=469 50th=632 80th=758 90th=852 99th=1059 max=4048
+15544	0		X	X	X
+elapsed(s)=58 requests/s=15720 [error=0] cumulative requests/client=78200 [error=0] cumulative requests/s=14111
+per-client requests. min=1333 median=1334 avg=1572 max=1937
+latency (usec). requests=15720 min=168 10th=470 50th=628 80th=744 90th=837 99th=1033 max=4280
+15720	0		X	X	X
+elapsed(s)=59 requests/s=15731 [error=0] cumulative requests/client=79773 [error=0] cumulative requests/s=14192
+per-client requests. min=1317 median=1345 avg=1573 max=1955
+latency (usec). requests=15731 min=179 10th=472 50th=627 80th=750 90th=824 99th=1010 max=4141
+15731	0		X	X	X
+Ran tests long enough. Stopping clients...
+elapsed(s)=60 requests/s=15537 [error=0] cumulative requests/client=81327 [error=0] cumulative requests/s=14259
+per-client requests. min=1285 median=1299 avg=1553 max=1971
+Client stopped. id=8
+Client stopped. id=0
+Client stopped. id=9
+Client stopped. id=5
+Client stopped. id=1
+Client stopped. id=4
+latency (usec). requests=15537 min=141 10th=468 50th=628 80th=765 90th=851 99th=1101 max=4365
+15537	0		X	X	X
+Client stopped. id=2
+Client stopped. id=7
+Client stopped. id=6
+Client stopped. id=3
+All clients have stopped.
+elapsed(s)=61 requests/s=0 [error=0] cumulative requests/client=81327 [error=0] cumulative requests/s=13546
+per-client requests. min=0 median=0 avg=0 max=0
+latency (usec). requests=10 min=799 10th=879 50th=2355 80th=4440 90th=4602 99th=4602 max=4602
+0	0		X	X	X
+Tests finished.

@@ -14,7 +14,7 @@ const unsigned short MAX_SESSION_COUNT = 5000;
 struct packet_header
 {
     protobuf::uint32 size;
-    channel_server::MESSAGE_ID ID;
+    channel_serv::MESSAGE_ID ID;
 };
 
 const int packet_header_size = sizeof(packet_header);
@@ -22,27 +22,39 @@ const int packet_header_size = sizeof(packet_header);
 class PacketHandler
 {
 public:
-    void Handle(const channel_server::freinds_req& message) const
+    void Handle(const channel_serv::friends_req& message) const
     {
         PrintMessage(message);
     }
-    void Handle(const channel_server::freinds_ans& message) const
+    void Handle(const channel_serv::friends_ans& message) const
     {
         PrintMessage(message);
     }
-    void Handle(const channel_server::play_req& message) const
+    void Handle(const channel_serv::play_friends_game_req& message) const
     {
         PrintMessage(message);
     }
-    void Handle(const channel_server::play_ans& message) const
+    void Handle(const channel_serv::play_rank_game_req& message) const
     {
         PrintMessage(message);
     }
-    void Handle(const channel_server::join_ntf& message) const
+    void Handle(const channel_serv::join_req& message) const
     {
         PrintMessage(message);
     }
-    void Handle(const channel_server::logout_ntf& message) const
+    void Handle(const channel_serv::join_ans& message) const
+    {
+        PrintMessage(message);
+    }
+    void Handle(const channel_serv::matching_complete_ans& message) const
+    {
+        PrintMessage(message);
+    }
+    void Handle(const channel_serv::error_msg& message) const
+    {
+        PrintMessage(message);
+    }
+    void Handle(const channel_serv::logout_ntf& message) const
     {
         PrintMessage(message);
     }

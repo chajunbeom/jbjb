@@ -1,9 +1,15 @@
 #pragma once
+#include "protocol.h"
 
-class config
+
+class config:public singleton<config>
 {
 public:
-    config();
-    ~config();
+    
 private:
+    bool init();
+    static json_spirit::mValue json_;
+public:
+    bool get_value(std::string config_type, std::string key, int& value);
+    bool get_value(std::string config_type, std::string key, std::string& value);
 };
